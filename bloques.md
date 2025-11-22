@@ -25,6 +25,9 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 6. **Ōji + Asukayama Park + Tabata**  
    Norte de Tokio local, parque histórico, templos tranquilos.
 
+31. **Yanaka profundo + Ueno Tōshōgū + Ikenohata** ✅  
+    Shitamachi silencioso, santuario escondido, cementerio histórico y zona natural.
+
 ---
 
 ## 🔵 Bloques urbanos – Historia / ciudad
@@ -74,8 +77,8 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 17. **Kamakura + Enoshima** ✅  
     Daibutsu, Hasedera, Komachi-dori, costa de Enoshima.
 
-18. **Nikkō** ✅  
-    Santuario Tōshō-gū (UNESCO), naturaleza, arquitectura Tokugawa.
+18. **Nikkō + Utsunomiya** ✅  
+    Santuario Tōshō-gū (UNESCO), naturaleza, arquitectura Tokugawa, parada en Utsunomiya (gyōza y ciudad histórica).
 
 19. **Hakone** ✅  
     Lago Ashi, santuario Hakone, entorno natural histórico.
@@ -86,6 +89,35 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 21. **Kawagoe** ✅  
     “Little Edo”, zona de almacenes kura, dulces tradicionales.
 
+---
+
+## 🔵 Bloques urbanos – Historia / ciudad
+
+25. **Kanda + Jimbochō + Tokyo Station** ✅  
+    Santuario Kanda, barrio intelectual de librerías, transición del Edo urbano al Tokio moderno.
+
+---
+
+## 🟡 Bloques urbanos – Cultura local / relajados
+
+26. **Todoroki + Jiyūgaoka + Gotokuji + Shōin-jinja (Setagaya)** ✅  
+    Valle natural dentro de Tokio, paseo tranquilo, barrio residencial con cafés, templo del maneki-neko y santuario histórico de Yoshida Shōin.
+    
+27. **Chōfu + Jindaiji + Jindai Botanical Garden** ✅  
+    Templo antiguo, soba tradicional, bosque y senderos dentro de Tokio.
+
+28. **Mitaka + Inokashira Park (zona norte)** ✅  
+    Paseo tranquilo, naturaleza menos turística, barrio residencial real.
+
+29. **Kugayama + Zenpukuji River Walk** ✅  
+    Caminata junto al río, sakura lineal en primavera, ambiente local no turístico.
+
+---
+
+## 🟣 Bloques urbanos – Historia silenciosa
+
+30. **Takanawa + Sengakuji + Gotanda** ✅  
+    Tumba de los 47 rōnin, barrio histórico no turístico, templos discretos y zona ferroviaria antigua.
 ---
 
 ## ⚪ Bloques en evaluación / opcionales futuros
