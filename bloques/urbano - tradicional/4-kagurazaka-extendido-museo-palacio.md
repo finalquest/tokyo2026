@@ -1,0 +1,286 @@
+## Kagurazaka + Ichigaya
+Antiguo barrio de geishas, callejones, mezcla franco-japonesa.
+
+---
+
+### Entrada recomendada: Estación Iidabashi
+
+Iidabashi es ideal como punto de partida porque marca una transición natural:
+- de Tokio moderno (nudo ferroviario)
+- al Kagurazaka histórico (en pendiente).
+
+Salí por **B2a o B3**, que te dejan directo en la zona de subida hacia Kagurazaka.
+
+---
+
+### 1. Kagurazaka-dori (calle principal)
+
+Esta es la arteria histórica del barrio.
+
+Históricamente:
+- era el eje del **hanamachi** (barrio de geishas),
+- conectaba casas de té, ryōtei y residencias de élite desde la era Edo tardía.
+
+Hoy es una mezcla interesante:
+- soba y restaurantes japoneses tradicionales  
+- bistrós franceses  
+- pastelerías franco-japonesas  
+- tiendas pequeñas locales
+
+Es clave recorrerla caminando lento, porque el valor está en los detalles, no en los puntos grandes.
+
+---
+
+### 2. Callejones históricos (Kagurazaka Yokocho / Hyogo Yokocho)
+
+Desde Kagurazaka-dori, entrá en los laterales:
+
+- **Hyōgo Yokocho**
+- **Kagurazaka Yokocho**
+- pequeños pasajes sin señalización turística clara
+
+Estos callejones eran donde estaban las casas de geishas.
+Muchos siguen activos como ryōtei o restaurantes tradicionales.
+
+Acá vas a ver:
+- arquitectura baja preservada
+- faroles discretos
+- entradas casi invisibles
+- patios internos escondidos
+
+Es lo más importante del barrio.
+
+---
+
+### 3. Akagi-jinja
+
+Santuario reconstruido por **Tadao Andō**.
+
+Es interesante porque:
+- no replica el pasado,
+- sino que lo reinterpreta con arquitectura contemporánea.
+
+Podés:
+- tomarte un descanso
+- pedir un goshuin
+- observar cómo se integra lo sagrado con hormigón y vidrio.
+
+Es un buen punto de pausa intermedia.
+
+---
+
+### 4. Escaleras y laderas ocultas
+
+Kagurazaka tiene muchas bajadas y subidas pequeñas.
+
+Busquen:
+- escaleras laterales sin nombre
+- callejones con pendiente
+- desniveles que cambian perspectivas
+
+Esto no es relleno:  
+es parte esencial del carácter del barrio, que creció sin planificación moderna rígida.
+
+---
+
+### 5. Transición hacia Ichigaya
+
+Caminando unos 10–15 minutos hacia el sur/este llegás a Ichigaya.
+
+Acá se siente un cambio fuerte:
+
+- menos comercio  
+- más institucional  
+- más espacio  
+- otra escala urbana
+
+Es un cambio de era, no de barrio.
+
+---
+
+### 6. Foso exterior del Castillo de Edo (Soto-bori)
+
+Este canal es parte del sistema defensivo del antiguo Castillo de Edo.
+
+Vas a ver:
+- agua
+- muros
+- partes de las antiguas fortificaciones
+- trenes cruzando un paisaje que fue militar
+
+Es un lugar ideal para:
+- caminar lento
+- hacer fotos
+- sentarte un rato si hay buen clima
+
+En época de sakura hay sectores muy buenos.
+
+---
+
+### 7. Ichigaya y el área del Ministerio de Defensa
+
+Esta zona tiene mucha carga histórica:
+- fue clave en el Japón militar del siglo XX,
+- hoy es una zona administrativa central.
+
+No es un punto para visitar en sí, sino para **observar el contraste**:
+15 minutos atrás caminabas entre ex-casas de geishas.
+
+Este contraste es parte del valor del bloque.
+
+---
+
+### 8. Lugares para pausa / comida
+
+Kagurazaka es excelente para:
+
+- soba tradicional  
+- comida japonesa refinada de barrio  
+- wagashi  
+- pastelería francesa con técnica japonesa
+
+Es uno de los barrios donde comer tiene sentido cultural, no solo gastronómico.
+
+---
+
+### 9. Opciones de expansión según energía
+
+Si están con ganas de estirar:
+
+- pueden caminar hacia **Chiyoda** (zona imperial)
+- pueden conectar con **Tokyo Station** si quieren cerrar con algo más urbano
+- o volver en metro desde Ichigaya.
+
+Si están cansados, este recorrido se puede cortar sin problemas a mitad.
+
+---
+
+---
+
+### Extensión: Ichigaya + Yasukuni + Jardines del Palacio
+
+Desde Kagurazaka se puede caminar o bajar en tren una estación hasta Ichigaya,
+para conectar este barrio histórico con una de las zonas más cargadas de significado político e histórico de Tokio.
+
+Este tramo no es turístico liviano:  
+es **historia japonesa dura**, sin filtro.
+
+---
+
+### Ichigaya
+
+Zona históricamente militar y administrativa.
+
+Fue importante por ser:
+- parte del sistema defensivo exterior del castillo de Edo,
+- y más tarde zona clave en eventos políticos del siglo XX.
+
+Hoy se siente más sobria, más institucional, más densa.
+
+---
+
+### Yasukuni Jinja
+
+Santuario construido en 1869 para honrar a los caídos por el emperador.
+
+Es uno de los lugares más **controversiales y simbólicos del Japón moderno**.
+
+Independientemente de la postura política de cada uno, tiene:
+
+- enorme peso histórico,
+- arquitectura sacerdotal poderosa,
+- y una carga simbólica imposible de ignorar.
+
+No es un lugar “bonito”, es un lugar **históricamente incómodo**, y eso lo hace importante.
+
+---
+
+### Yūshūkan Museum
+
+Museo ligados al santuario Yasukuni.
+
+- Expone la versión japonesa oficial de las guerras modernas.
+- Contenidos ideológicamente sensibles.
+- Muy interesante si te interesa historia sin curar para turistas.
+
+No es obligatorio, pero sí culturalmente fuerte.
+
+---
+
+### Fosos del antiguo castillo de Edo
+
+Desde Yasukuni se puede caminar bordeando los:
+
+- fosos del antiguo castillo Tokugawa,
+- restos estructurales del sistema defensivo de Edo.
+
+Estos canales son parte real de la ciudad original, no decoración.
+
+---
+
+### Jardines del Palacio Imperial (Kōkyo Gaien / Kōrakuen cercano)
+
+Acá tenés dos opciones:
+
+#### 1. Jardines exteriores del Palacio Imperial (Kōkyo Gaien)
+- Paisaje abierto junto a los fosos.
+- Puentes históricos.
+- Vistas hacia las murallas originales del castillo.
+
+#### 2. Koishikawa Kōrakuen
+(Jardín clásico Edo que marcaste en el mapa)
+
+Uno de los jardines más importantes de Tokio.
+
+Construido en el siglo XVII por el clan Tokugawa con influencia china.
+
+Tiene:
+- colinas artificiales,
+- lagunas,
+- puentes de piedra,
+- paisajes simbólicos.
+
+Si lo visitás en primavera, suma mucho con sakura.
+
+---
+
+### Lógica de recorrido
+
+Este bloque extendido quedaría:
+
+**Kagurazaka → Ichigaya → Yasukuni → Fosos del Castillo → Jardines del Palacio / Kōrakuen**
+
+Y se puede cortar en varios puntos:
+
+- Si el día viene liviano: solo Kagurazaka.
+- Si hay energía: sumás Ichigaya + Yasukuni.
+- Si es un día de historia fuerte: lo extendés a jardines.
+
+---
+
+### Espíritu del día
+
+Este bloque no es para “consumir lugares”, sino para:
+- absorber capas históricas
+- entender cómo convivieron cultura y poder
+- caminar mucho y lento
+
+Es ideal para:
+- días tranquilos  
+- días nublados  
+- días post-excursión fuerte
+
+---
+
+## Espíritu de esta extensión
+
+Esto ya no es solo un paseo de barrio.
+
+Es una capa profunda del Tokio político y militar:
+
+- final del shogunato
+- modernización Meiji
+- militarismo del siglo XX
+- y reconfiguración de Tokio posguerra
+
+---

@@ -25,8 +25,14 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 6. **Ōji + Asukayama Park + Tabata**  
    Norte de Tokio local, parque histórico, templos tranquilos.
 
-31. **Yanaka profundo + Ueno Tōshōgū + Ikenohata** ✅  
+31. **Yanaka profundo + Ueno Tōshōgū + Ikenohata**
     Shitamachi silencioso, santuario escondido, cementerio histórico y zona natural.
+
+32. **Tokyo Tower + Zōjō-ji + Shimbashi + Atago-jinja + Shiodome**
+    Icono de posguerra, templo Tokugawa, cuna del ferrocarril, santuario en colina y distrito mediático moderno.
+
+33. **Shibamata (Taishakuten + Tora-san + río Edo)** ✅  
+    Barrio histórico tipo Shōwa, templo Taishakuten, casa de Tora-san y ambiente tradicional lejos del centro.
 
 ---
 
@@ -40,6 +46,10 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 
 9. **Ueno + Okachimachi + Ameyoko**  
    Parque Ueno, museos (opcional), shotengai histórico.
+
+25. **Kanda + Jimbochō + Tokyo Station** ✅  
+    Santuario Kanda, barrio intelectual de librerías, transición del Edo urbano al Tokio moderno.
+
 
 ---
 
@@ -56,6 +66,21 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 
 13. **Daikanyama + Nakameguro + Meguro River**  
     Arquitectura moderna + río con sakura.
+
+26. **Todoroki + Jiyūgaoka + Gotokuji + Shōin-jinja (Setagaya)** ✅  
+    Valle natural dentro de Tokio, paseo tranquilo, barrio residencial con cafés, templo del maneki-neko y santuario histórico de Yoshida Shōin.
+
+27. **Chōfu + Jindaiji + Jindai Botanical Garden** ✅  
+    Templo antiguo, soba tradicional, bosque y senderos dentro de Tokio.
+
+28. **Mitaka + Inokashira Park (zona norte)** ✅  
+    Paseo tranquilo, naturaleza menos turística, barrio residencial real.
+
+29. **Kugayama + Zenpukuji River Walk** ✅  
+    Caminata junto al río, sakura lineal en primavera, ambiente local no turístico.
+
+30. **Takanawa + Sengakuji + Gotanda** ✅  
+    Tumba de los 47 rōnin, barrio histórico no turístico, templos discretos y zona ferroviaria antigua.
 
 ---
 
@@ -89,35 +114,6 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 21. **Kawagoe** ✅  
     “Little Edo”, zona de almacenes kura, dulces tradicionales.
 
----
-
-## 🔵 Bloques urbanos – Historia / ciudad
-
-25. **Kanda + Jimbochō + Tokyo Station** ✅  
-    Santuario Kanda, barrio intelectual de librerías, transición del Edo urbano al Tokio moderno.
-
----
-
-## 🟡 Bloques urbanos – Cultura local / relajados
-
-26. **Todoroki + Jiyūgaoka + Gotokuji + Shōin-jinja (Setagaya)** ✅  
-    Valle natural dentro de Tokio, paseo tranquilo, barrio residencial con cafés, templo del maneki-neko y santuario histórico de Yoshida Shōin.
-    
-27. **Chōfu + Jindaiji + Jindai Botanical Garden** ✅  
-    Templo antiguo, soba tradicional, bosque y senderos dentro de Tokio.
-
-28. **Mitaka + Inokashira Park (zona norte)** ✅  
-    Paseo tranquilo, naturaleza menos turística, barrio residencial real.
-
-29. **Kugayama + Zenpukuji River Walk** ✅  
-    Caminata junto al río, sakura lineal en primavera, ambiente local no turístico.
-
----
-
-## 🟣 Bloques urbanos – Historia silenciosa
-
-30. **Takanawa + Sengakuji + Gotanda** ✅  
-    Tumba de los 47 rōnin, barrio histórico no turístico, templos discretos y zona ferroviaria antigua.
 ---
 
 ## ⚪ Bloques en evaluación / opcionales futuros
