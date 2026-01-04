@@ -165,11 +165,19 @@ Es un buen lugar para sentir cómo funciona un barrio no turistificado.
 
 Según energía y clima:
 
-**Tokyo Skytree area**  
-Para ver el contraste entre lo más moderno y el viejo shitamachi.
+**Tokyo Skytree area** *(opcional, ideal solo si querés contrastar con lo moderno; ya no planeamos subir otra vez)*  
+Sirve para ver el choque entre la torre y el shitamachi sin necesidad de hacer cola.
 
 **Imado Shrine**  
 Santuario asociado al origen del Sensō-ji y vinculado con los maneki-neko.
+
+---
+
+### Primavera (finales de marzo a mediados de abril)
+
+- **Sumida Park** y la ribera frente al Sensō-ji tienen sakura temprana; andá temprano (8:00-9:00) para evitar grupos.  
+- Mukōjima y sus shotengai mantienen faroles primaverales y festivales menores; vale la pena cruzar el río a pie.  
+- Si llueve, refugiate en los pasajes cubiertos (Nakamise, Shin-Nakamise) y dejá el tramo del río para el día siguiente.
 
 ---
 

@@ -170,7 +170,8 @@ Además, el contraste visual:
 Opciones para cerrar según energía:
 
 - Volver caminando hacia Ginza.  
-- Tomar algo en Shimbashi (izakaya / café local).  
+- Tomar algo en Shimbashi (izakaya / café local bajo las vías, como las calles SL Square / New Shimbashi Building).  
+- Meter un desvío verde a **Hamarikyu Garden** (15 min caminando desde Shiodome) para bajar las pulsaciones antes de cenar.  
 - O cortar directamente desde Shiodome si el día fue largo.
 
 ---
@@ -190,5 +191,11 @@ Ideal para:
 - un día con energía media  
 - sin multitudes clásicas  
 - y con ganas de capas históricas.
+
+### Primavera (fines de marzo)
+
+- **Zōjō-ji** y el parque Shiba tienen sakura con la Tokyo Tower de fondo; andá temprano (8:00) para fotos limpias.  
+- **Atago-jinja** suele montar ofrendas florales en la escalera del éxito; subilas con calma porque puede estar resbaladizo por el polen.  
+- Si sumás Hamarikyu, revisá los horarios de hanami nocturno: la combinación con Shiodome iluminado vale la pena.
 
 ---

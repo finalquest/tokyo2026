@@ -98,42 +98,6 @@ Esta área muestra bien:
 
 ---
 
-### Kiyosumi Shirakawa
-
-Esta zona es interesante porque mezcla:
-
-- un barrio tradicional de comerciantes y trabajadores portuarios  
-- con un Tokio moderno de cafés de especialidad y galerías.
-
-Es una mezcla muy natural, no forzada para turistas.
-
----
-
-### Kiyosumi Garden
-
-Jardín paisajístico creado originalmente en el período Edo y remodelado en la era Meiji.
-
-Es un jardín de paseo alrededor de un estanque, con:
-- piedras traídas de todo Japón,
-- pequeños islotes,
-- puentes y senderos.
-
-Sirve muy bien como pausa dentro del recorrido.
-
----
-
-### Kiyosumi/Café break
-
-En esta zona hay varios cafés interesantes que no están pensados para turistas, sino para:
-
-- vecinos que trabajan remoto,
-- estudiantes,
-- gente local.
-
-Se puede usar como punto de descanso largo si el cuerpo lo pide.
-
----
-
 ### Extensión opcional hacia Mukōjima
 
 Si están con energía y ganas de seguir en modo shitamachi:
@@ -142,9 +106,17 @@ Desde Kiyosumi se puede subir hacia el norte y conectar con zonas más residenci
 
 Esto permite:
 - enlazar con el itinerario de Asakusa/Mukōjima,
-- o recorrer un sector menos visitado del este de Tokio.
+- o, en un día distinto, combinarlo con **Kiyosumi Shirakawa** (cafés, jardín y galerías) para tener un bloque más moderno dentro de la misma zona.
 
 Es un trayecto más largo, pero muy coherente temáticamente.
+
+---
+
+### Primavera (finales de marzo)
+
+- El canal frente a **Tomioka Hachimangū** y las calles laterales tienen sakura reflectándose en el agua; mejor horario: 8:30-10:00.  
+- **Kiyosumi Garden** abre más temprano en temporada; aprovechalo si buscás fotos con ciruelos tardíos y azaleas tempranas.  
+- Las shotengai de Fukagawa venden mochi de flor de cerezo y amazake templado: buena excusa para un descanso cuando todavía hace fresco.
 
 ---
 

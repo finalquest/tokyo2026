@@ -29,6 +29,15 @@ Todo se hace caminando, sin apuro.
 
 ---
 
+## Cómo llegar
+
+- **Desde Asakusa**: Keisei Main Line hasta Keisei-Takasago y combinación a la Keisei Kanamachi Line (total ~35 min).  
+- **Desde Ueno**: JR Yamanote hasta Nippori → Keisei Main Line igual que arriba.  
+- Para volver podés tomar el tranvía **Toden Arakawa** desde Keisei Arakawa-Shakomae si querés variar, o seguir con Keisei/JR.  
+- No requiere reserva ni Limited Express; con Suica/PASMO alcanza.
+
+---
+
 ## 1. Llegada: Estación Shibamata
 
 La llegada ya es parte de la experiencia.
@@ -193,3 +202,9 @@ Más que “ver cosas”, este es un día para:
 - y entender un Japón cotidiano y nostálgico.
 
 Es un día más emocional y cultural que espectacular.
+
+### Primavera (finales de marzo)
+
+- La calle Taishakuten Sando cuelga banderines y flores de papel para hanami; hacé la caminata justo al abrir las tiendas.  
+- El **jardín Suikei-en** brota de verdes intensos y azaleas tempranas; aprovechá la luz suave de la mañana.  
+- A orillas del río Edo se juntan familias para volar cometas y hacer picnic: llevá algo de calle para sumarte sin planear demasiado.

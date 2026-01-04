@@ -3,6 +3,9 @@
 Este índice contiene *todos* los bloques propuestos para tu viaje.  
 No está atado a fechas: elegís cada día según clima, energía y ganas.
 
+📅 **Ventana del viaje:** 21 de marzo al 11 de abril.  
+Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios) para aprovechar esa temporada.
+
 ---
 
 ## 🟢 Bloques urbanos – Tradicional / Shitamachi
@@ -50,13 +53,19 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 25. **Kanda + Jimbochō + Tokyo Station** ✅  
     Santuario Kanda, barrio intelectual de librerías, transición del Edo urbano al Tokio moderno.
 
+34. **Ginza + Nihonbashi (opcional)** ✅  
+    Tokio Meiji–Taishō, arquitectura comercial histórica, cafés clásicos, galerías y calles peatonales.
+
+35. **Yasukuni + Kōkyo Gaien + Museos imperiales** ✅  
+    Santuario polémico, fosos Tokugawa, jardines imperiales y museos con narrativa histórica oficial.
+
 
 ---
 
 ## 🟡 Bloques urbanos – Cultura local / relajados
 
 10. **Itabashi + Ōyama** ✅  
-    Nakasendō histórico, shotengai, Jōren-ji, río Shakujii.
+    Nakasendō histórico, shotengai, Jōren-ji, base del viaje.
 
 11. **Kichijōji + Inokashira Park** ✅  
     Barrio local, Harmonica Yokocho, parque, sakura.
@@ -81,6 +90,9 @@ No está atado a fechas: elegís cada día según clima, energía y ganas.
 
 30. **Takanawa + Sengakuji + Gotanda** ✅  
     Tumba de los 47 rōnin, barrio histórico no turístico, templos discretos y zona ferroviaria antigua.
+
+36. **Akabane + Higashi-Jūjō** ✅  
+    Barrios obreros, templos discretos, compuertas del Arakawa, shotengai local.
 
 ---
 

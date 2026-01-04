@@ -1,4 +1,4 @@
-## Kagurazaka + Ichigaya
+# Kagurazaka + Ichigaya
 Antiguo barrio de geishas, callejones, mezcla franco-japonesa.
 
 ---
@@ -155,6 +155,36 @@ Si están cansados, este recorrido se puede cortar sin problemas a mitad.
 
 ---
 
+### Extensión histórica (día largo)
+
+Si buscan un día más intenso de historia y política, sumen este tramo extra:
+
+**Kagurazaka → Ichigaya → Yasukuni → Fosos del Castillo → Jardines del Palacio / Koishikawa Kōrakuen**
+
+#### Yasukuni Jinja + Yūshūkan
+- Santuario controvertido dedicado a los caídos desde 1869.
+- El museo anexo muestra la narrativa oficial japonesa de los conflictos modernos.
+- Culturalmente fuerte; no es un paseo ligero, es historia cruda.
+- Si querés dedicarle todo un día a este tema, está el **Bloque 35 – Yasukuni + Kōkyo Gaien** con recorrido completo.
+
+#### Fosos y Jardines del Palacio
+- Caminá bordeando los fosos del antiguo castillo Tokugawa para ver estructuras originales.
+- Opciones finales:
+  - **Kōkyo Gaien** (jardines exteriores del Palacio Imperial).  
+  - **Koishikawa Kōrakuen** (jardín clásico Edo; entrada paga, top en primavera/otoño).
+
+Podés cortar la extensión en cualquier punto según energía o clima.
+
+---
+
+### Primavera (marzo-abril)
+
+- Las laderas y escaleras de Kagurazaka brotan de sakura y magnolias; aprovechá la mañana (antes de las 11) para luz suave en los callejones.  
+- Los fosos de Ichigaya y Soto-bori arman túneles de flores: caminá por las veredas altas para evitar multitudes y tener reflejos sobre el agua.  
+- **Koishikawa Kōrakuen** alcanza su pico entre la última semana de marzo y la primera de abril; reservá 45 min de caminata solo para ese jardín si coincide tu fecha.
+
+---
+
 ### Espíritu del día
 
 Este bloque no es para “consumir lugares”, sino para:
@@ -162,9 +192,4 @@ Este bloque no es para “consumir lugares”, sino para:
 - entender cómo convivieron cultura y poder
 - caminar mucho y lento
 
-Es ideal para:
-- días tranquilos  
-- días nublados  
-- días post-excursión fuerte
-
----
+Funciona perfecto en días nublados o cuando buscás un ritmo elegante sin ruido.

@@ -126,16 +126,24 @@ Perfecto si quieren sumar un componente más espiritual / estético.
 
 ---
 
-### Yakumo Saryo / cafés tradicionales
+### Ruta sugerida (goshuin + pausas)
 
-En la zona hay varios cafés y casas de té pequeñas.
+Para cubrir todo en un día y optimizar los sellos, seguí este orden circular:
 
-Lo interesante no es tanto el lujo, sino:
-- el ritmo lento
-- el ambiente de barrio
-- el silencio comparado con otras zonas de Tokio
+1. **Tenno-ji** (al entrar al cementerio) para el primer goshuin y contexto budista.  
+2. **Zensho-an** y **Gyokurin-ji** (templos discretos) antes de que abran los comercios.  
+3. **Nezu Shrine** hacia media mañana, cuando la luz pega bien en los torii rojos.  
+4. **Enju-ji** y **Daien-ji** camino a Yanaka 3-chōme para cerrar la libreta.  
 
-Perfecto para una pausa larga.
+Entre cada tramo meté pausas en cafés como **Kayaba Coffee**, **SCAI Bathhouse café** o **Yanaka Coffee**: están ubicados justo en las intersecciones clave y ayudan a mantener el ritmo sin correr.
+
+---
+
+### Primavera (21 de marzo – 11 de abril)
+
+- La avenida central del **Cementerio Yanaka** explota de sakura; apuntá a media mañana para luz pareja y muy poca gente.  
+- **Nezu Shrine** tiene azaleas a partir de la primera semana de abril; si aún no abrieron, concentrá la visita en los torii y dejá los jardines para más tarde.  
+- Los cafés tradicionales ofrecen menús de temporada (sakura latte, wagashi con flor de cerezo); probalos para entrar en clima.
 
 ---
 
