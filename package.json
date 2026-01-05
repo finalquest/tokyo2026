@@ -9,15 +9,19 @@
     "routes": "node scripts/fetch-directions.js",
     "routes:block": "node scripts/fetch-directions-block.js",
     "build:maps": "node scripts/build-maps.js",
-    "build:map": "node scripts/build-map-block.js"
+    "build:map": "node scripts/build-map-block.js",
+    "render:block": "node scripts/render-map-block.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.4.2",
-    "@googlemaps/polyline-codec": "^1.0.32",
+    "@googlemaps/polyline-codec": "^1.0.28",
+    "@tmcw/togeojson": "^5.8.1",
     "dotenv": "^17.2.3",
+    "jsdom": "^25.0.1",
+    "puppeteer": "^23.7.1",
     "tokml": "^0.4.0"
   },
   "type": "module"
