@@ -8,7 +8,7 @@ title: Bloques en evaluación / opcionales futuros
 
 ---
 
-![Mapa del bloque 24-chichibu](/maps/24-chichibu.png)
+![Mapa del bloque 24-chichibu](../../maps/24-chichibu.png)
 
 
 

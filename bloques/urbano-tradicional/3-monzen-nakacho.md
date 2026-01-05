@@ -8,7 +8,7 @@ title: Bloques urbanos – Tradicional / Shitamachi
 
 ---
 
-![Mapa del bloque 3-monzen-nakacho](/maps/3-monzen-nakacho.png)
+![Mapa del bloque 3-monzen-nakacho](../../maps/3-monzen-nakacho.png)
 
 
 

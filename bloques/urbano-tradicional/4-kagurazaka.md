@@ -8,7 +8,7 @@ Antiguo barrio de geishas, callejones, mezcla franco-japonesa.
 
 ---
 
-![Mapa del bloque 4-kagurazaka](/maps/4-kagurazaka.png)
+![Mapa del bloque 4-kagurazaka](../../maps/4-kagurazaka.png)
 
 
 

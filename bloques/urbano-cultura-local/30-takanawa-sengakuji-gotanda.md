@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 30-takanawa-sengakuji-gotanda](/maps/30-takanawa-sengakuji-gotanda.png)
+![Mapa del bloque 30-takanawa-sengakuji-gotanda](../../maps/30-takanawa-sengakuji-gotanda.png)
 
 
 

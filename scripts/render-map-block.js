@@ -285,7 +285,7 @@ function buildGoogleHtml({
   <body>
     <div id="map"></div>
     <div id="legend"></div>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=${apiKey}&language=en&callback=initMap&v=weekly"></script>
+    <script async defer src="https://maps.googleapis.com../../maps/api/js?key=${apiKey}&language=en&callback=initMap&v=weekly"></script>
     <script>
       const pointData = ${JSON.stringify(points)};
       const lineData = ${JSON.stringify(lines)};

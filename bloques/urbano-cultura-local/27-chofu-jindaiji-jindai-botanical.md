@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 27-chofu-jindaiji-jindai-botanical](/maps/27-chofu-jindaiji-jindai-botanical.png)
+![Mapa del bloque 27-chofu-jindaiji-jindai-botanical](../../maps/27-chofu-jindaiji-jindai-botanical.png)
 
 
 

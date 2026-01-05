@@ -8,7 +8,7 @@ title: Bloques urbanos – Subcultura / Retro / Pop
 
 ---
 
-![Mapa del bloque 16-ikebukuro-sugamo](/maps/16-ikebukuro-sugamo.png)
+![Mapa del bloque 16-ikebukuro-sugamo](../../maps/16-ikebukuro-sugamo.png)
 
 
 

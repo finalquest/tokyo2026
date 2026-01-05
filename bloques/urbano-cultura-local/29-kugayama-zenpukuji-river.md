@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 29-kugayama-zenpukuji-river](/maps/29-kugayama-zenpukuji-river.png)
+![Mapa del bloque 29-kugayama-zenpukuji-river](../../maps/29-kugayama-zenpukuji-river.png)
 
 
 

@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 36-akabane-higashijujo](/maps/36-akabane-higashijujo.png)
+![Mapa del bloque 36-akabane-higashijujo](../../maps/36-akabane-higashijujo.png)
 
 
 

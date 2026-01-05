@@ -8,7 +8,7 @@ title: Bloques en evaluación / opcionales futuros
 
 ---
 
-![Mapa del bloque 23-fujinomiya](/maps/23-fujinomiya.png)
+![Mapa del bloque 23-fujinomiya](../../maps/23-fujinomiya.png)
 
 
 

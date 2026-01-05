@@ -8,7 +8,7 @@ title: Bloques de excursión (fuera de Tokio)
 
 ---
 
-![Mapa del bloque 20-yokosuka](/maps/20-yokosuka.png)
+![Mapa del bloque 20-yokosuka](../../maps/20-yokosuka.png)
 
 
 

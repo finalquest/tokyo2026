@@ -8,7 +8,7 @@ title: Bloques urbanos – Historia / ciudad
 
 ---
 
-![Mapa del bloque 7-tokyo-station-nihonbashi-marunouchi](/maps/7-tokyo-station-nihonbashi-marunouchi.png)
+![Mapa del bloque 7-tokyo-station-nihonbashi-marunouchi](../../maps/7-tokyo-station-nihonbashi-marunouchi.png)
 
 
 

@@ -8,7 +8,7 @@ title: Bloques urbanos – Historia / ciudad
 
 ---
 
-![Mapa del bloque 35-yasukuni-kokyo-gaien](/maps/35-yasukuni-kokyo-gaien.png)
+![Mapa del bloque 35-yasukuni-kokyo-gaien](../../maps/35-yasukuni-kokyo-gaien.png)
 
 
 

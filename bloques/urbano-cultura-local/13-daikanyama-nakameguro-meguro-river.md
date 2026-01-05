@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 13-daikanyama-nakameguro-meguro-river](/maps/13-daikanyama-nakameguro-meguro-river.png)
+![Mapa del bloque 13-daikanyama-nakameguro-meguro-river](../../maps/13-daikanyama-nakameguro-meguro-river.png)
 
 
 

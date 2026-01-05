@@ -8,7 +8,7 @@ title: Bloques de excursión (fuera de Tokio)
 
 ---
 
-![Mapa del bloque 18-nikko-utsunomiya](/maps/18-nikko-utsunomiya.png)
+![Mapa del bloque 18-nikko-utsunomiya](../../maps/18-nikko-utsunomiya.png)
 
 
 

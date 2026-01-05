@@ -8,7 +8,7 @@ Barrio histórico tipo Shōwa, templo Taishakuten y paseo ribereño.
 
 ---
 
-![Mapa del bloque 33-shibamata](/maps/33-shibamata.png)
+![Mapa del bloque 33-shibamata](../../maps/33-shibamata.png)
 
 
 

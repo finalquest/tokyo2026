@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 12-shimokitazawa-sangenjaya](/maps/12-shimokitazawa-sangenjaya.png)
+![Mapa del bloque 12-shimokitazawa-sangenjaya](../../maps/12-shimokitazawa-sangenjaya.png)
 
 
 

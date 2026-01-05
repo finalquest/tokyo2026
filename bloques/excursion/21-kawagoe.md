@@ -8,7 +8,7 @@ title: Bloques de excursión (fuera de Tokio)
 
 ---
 
-![Mapa del bloque 21-kawagoe](/maps/21-kawagoe.png)
+![Mapa del bloque 21-kawagoe](../../maps/21-kawagoe.png)
 
 
 

@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 10-itabashi-oyama](/maps/10-itabashi-oyama.png)
+![Mapa del bloque 10-itabashi-oyama](../../maps/10-itabashi-oyama.png)
 
 
 

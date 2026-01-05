@@ -8,7 +8,7 @@ Icono de posguerra, templo Tokugawa, cuna del ferrocarril, santuario en colina y
 
 ---
 
-![Mapa del bloque 32-tokyo-tower](/maps/32-tokyo-tower.png)
+![Mapa del bloque 32-tokyo-tower](../../maps/32-tokyo-tower.png)
 
 
 

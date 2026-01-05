@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 26-todoroki-jiyugaoka-gotokuji-shoin](/maps/26-todoroki-jiyugaoka-gotokuji-shoin.png)
+![Mapa del bloque 26-todoroki-jiyugaoka-gotokuji-shoin](../../maps/26-todoroki-jiyugaoka-gotokuji-shoin.png)
 
 
 

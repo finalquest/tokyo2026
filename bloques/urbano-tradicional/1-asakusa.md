@@ -8,7 +8,7 @@ title: Bloques urbanos – Tradicional / Shitamachi
 
 ---
 
-![Mapa del bloque 1-asakusa](/maps/1-asakusa.png)
+![Mapa del bloque 1-asakusa](../../maps/1-asakusa.png)
 
 
 

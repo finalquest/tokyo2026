@@ -8,7 +8,7 @@ title: Bloques de excursión (fuera de Tokio)
 
 ---
 
-![Mapa del bloque 19-hakone](/maps/19-hakone.png)
+![Mapa del bloque 19-hakone](../../maps/19-hakone.png)
 
 
 

@@ -8,7 +8,7 @@ title: Bloques urbanos – Tradicional / Shitamachi
 
 ---
 
-![Mapa del bloque 31-yanaka-profundo-ueno-toshogu-ikenohata](/maps/31-yanaka-profundo-ueno-toshogu-ikenohata.png)
+![Mapa del bloque 31-yanaka-profundo-ueno-toshogu-ikenohata](../../maps/31-yanaka-profundo-ueno-toshogu-ikenohata.png)
 
 
 

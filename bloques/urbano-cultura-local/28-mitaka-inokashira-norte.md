@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 28-mitaka-inokashira-norte](/maps/28-mitaka-inokashira-norte.png)
+![Mapa del bloque 28-mitaka-inokashira-norte](../../maps/28-mitaka-inokashira-norte.png)
 
 
 

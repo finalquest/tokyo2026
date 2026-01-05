@@ -8,7 +8,7 @@ title: Bloques de excursión (fuera de Tokio)
 
 ---
 
-![Mapa del bloque 17-kamakura-enoshima](/maps/17-kamakura-enoshima.png)
+![Mapa del bloque 17-kamakura-enoshima](../../maps/17-kamakura-enoshima.png)
 
 
 

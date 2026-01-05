@@ -8,7 +8,7 @@ title: Bloques urbanos – Tradicional / Shitamachi
 
 ---
 
-![Mapa del bloque 5-sugamo-komagome-rikugien](/maps/5-sugamo-komagome-rikugien.png)
+![Mapa del bloque 5-sugamo-komagome-rikugien](../../maps/5-sugamo-komagome-rikugien.png)
 
 
 

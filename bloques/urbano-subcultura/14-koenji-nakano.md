@@ -8,7 +8,7 @@ title: Bloques urbanos – Subcultura / Retro / Pop
 
 ---
 
-![Mapa del bloque 14-koenji-nakano](/maps/14-koenji-nakano.png)
+![Mapa del bloque 14-koenji-nakano](../../maps/14-koenji-nakano.png)
 
 
 

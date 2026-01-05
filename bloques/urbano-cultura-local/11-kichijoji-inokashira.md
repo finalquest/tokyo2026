@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 11-kichijoji-inokashira](/maps/11-kichijoji-inokashira.png)
+![Mapa del bloque 11-kichijoji-inokashira](../../maps/11-kichijoji-inokashira.png)
 
 
 

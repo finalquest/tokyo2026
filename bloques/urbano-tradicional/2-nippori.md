@@ -8,7 +8,7 @@ title: Bloques urbanos – Tradicional / Shitamachi
 
 ---
 
-![Mapa del bloque 2-nippori](/maps/2-nippori.png)
+![Mapa del bloque 2-nippori](../../maps/2-nippori.png)
 
 
 

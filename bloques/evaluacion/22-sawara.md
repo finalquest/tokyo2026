@@ -8,7 +8,7 @@ title: Bloques en evaluación / opcionales futuros
 
 ---
 
-![Mapa del bloque 22-sawara](/maps/22-sawara.png)
+![Mapa del bloque 22-sawara](../../maps/22-sawara.png)
 
 
 

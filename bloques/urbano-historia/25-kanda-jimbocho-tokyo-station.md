@@ -8,7 +8,7 @@ title: Bloques urbanos – Historia / ciudad
 
 ---
 
-![Mapa del bloque 25-kanda-jimbocho-tokyo-station](/maps/25-kanda-jimbocho-tokyo-station.png)
+![Mapa del bloque 25-kanda-jimbocho-tokyo-station](../../maps/25-kanda-jimbocho-tokyo-station.png)
 
 
 

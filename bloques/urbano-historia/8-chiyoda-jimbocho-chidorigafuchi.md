@@ -8,7 +8,7 @@ title: Bloques urbanos – Historia / ciudad
 
 ---
 
-![Mapa del bloque 8-chiyoda-jimbocho-chidorigafuchi](/maps/8-chiyoda-jimbocho-chidorigafuchi.png)
+![Mapa del bloque 8-chiyoda-jimbocho-chidorigafuchi](../../maps/8-chiyoda-jimbocho-chidorigafuchi.png)
 
 
 

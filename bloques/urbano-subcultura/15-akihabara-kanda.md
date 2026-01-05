@@ -8,7 +8,7 @@ title: Bloques urbanos – Subcultura / Retro / Pop
 
 ---
 
-![Mapa del bloque 15-akihabara-kanda](/maps/15-akihabara-kanda.png)
+![Mapa del bloque 15-akihabara-kanda](../../maps/15-akihabara-kanda.png)
 
 
 

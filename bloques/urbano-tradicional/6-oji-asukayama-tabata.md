@@ -8,7 +8,7 @@ title: Bloques urbanos – Tradicional / Shitamachi
 
 ---
 
-![Mapa del bloque 6-oji-asukayama-tabata](/maps/6-oji-asukayama-tabata.png)
+![Mapa del bloque 6-oji-asukayama-tabata](../../maps/6-oji-asukayama-tabata.png)
 
 
 

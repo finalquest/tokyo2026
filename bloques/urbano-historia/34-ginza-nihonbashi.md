@@ -8,7 +8,7 @@ title: Bloques urbanos – Historia / ciudad
 
 ---
 
-![Mapa del bloque 34-ginza-nihonbashi](/maps/34-ginza-nihonbashi.png)
+![Mapa del bloque 34-ginza-nihonbashi](../../maps/34-ginza-nihonbashi.png)
 
 
 

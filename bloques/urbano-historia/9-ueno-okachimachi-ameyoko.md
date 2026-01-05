@@ -8,7 +8,7 @@ title: Bloques urbanos – Historia / ciudad
 
 ---
 
-![Mapa del bloque 9-ueno-okachimachi-ameyoko](/maps/9-ueno-okachimachi-ameyoko.png)
+![Mapa del bloque 9-ueno-okachimachi-ameyoko](../../maps/9-ueno-okachimachi-ameyoko.png)
 
 
 
