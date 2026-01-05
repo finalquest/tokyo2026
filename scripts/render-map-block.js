@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import "dotenv/config";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -70,6 +71,11 @@ const center = bounds
   : fallbackCenter;
 
 const chunkSize = parseChunkSize(process.argv.slice(3));
+const googleApiKey = process.env.GOOGLE_MAPS_API_KEY?.trim();
+if (!googleApiKey) {
+  console.error("Falta GOOGLE_MAPS_API_KEY en el entorno (.env).");
+  process.exit(1);
+}
 
 renderAllVariants().catch((err) => {
   console.error(`Fallo al renderizar ${blockId}:`, err);
@@ -85,6 +91,7 @@ async function renderAllVariants() {
     center,
     legendTitle: "Paradas",
     outputPath: path.join(rootDir, "maps", `${blockId}.png`),
+    apiKey: googleApiKey,
   });
 
   if (chunkSize && chunkSize > 0) {
@@ -111,6 +118,7 @@ async function renderAllVariants() {
         center: chunkCenter,
         legendTitle: `Detalle tramo ${i + 1}`,
         outputPath,
+        apiKey: googleApiKey,
       });
     }
   }
@@ -124,6 +132,7 @@ async function renderVariant({
   center: variantCenter,
   legendTitle,
   outputPath,
+  apiKey,
 }) {
   const html = buildHtml({
     blockId: variantId,
@@ -132,6 +141,7 @@ async function renderVariant({
     bounds: variantBounds,
     center: variantCenter,
     legendTitle,
+    apiKey,
   });
   const browser = await puppeteer.launch({
     defaultViewport: { width: 1280, height: 960, deviceScaleFactor: 2 },
@@ -198,37 +208,23 @@ function extractCoordinates(geometry) {
   return [];
 }
 
-function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapCenter, legendTitle }) {
-  const maplibreVersion = "4.7.1";
+function buildHtml({
+  blockId: id,
+  points,
+  lines,
+  bounds: mapBounds,
+  center: mapCenter,
+  legendTitle,
+  apiKey,
+}) {
   const fitBounds = mapBounds ? JSON.stringify(mapBounds) : "null";
-  const rasterStyle = {
-    version: 8,
-    glyphs: "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
-    sources: {
-      "osm-tiles": {
-        type: "raster",
-        tiles: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
-        tileSize: 256,
-        attribution:
-          '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        maxzoom: 19,
-      },
-    },
-    layers: [
-      {
-        id: "osm-tiles",
-        type: "raster",
-        source: "osm-tiles",
-      },
-    ],
-  };
+  const centerLatLng = { lat: mapCenter[1], lng: mapCenter[0] };
   return `<!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="utf-8" />
     <title>Mapa ${id}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@${maplibreVersion}/dist/maplibre-gl.css" />
     <style>
       html, body { margin: 0; padding: 0; height: 100%; }
       #map { width: 100%; height: 100%; }
@@ -283,34 +279,44 @@ function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapC
   <body>
     <div id="map"></div>
     <div id="legend"></div>
-    <script src="https://unpkg.com/maplibre-gl@${maplibreVersion}/dist/maplibre-gl.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=${apiKey}&language=en&callback=initMap&v=weekly"></script>
     <script>
       const pointData = ${JSON.stringify(points)};
       const lineData = ${JSON.stringify(lines)};
-      const center = ${JSON.stringify(mapCenter)};
+      const center = ${JSON.stringify(centerLatLng)};
       const bounds = ${fitBounds};
-      const baseStyle = ${JSON.stringify(rasterStyle)};
 
-      const map = new maplibregl.Map({
-        container: "map",
-        style: baseStyle,
-        center,
-        zoom: 12
-      });
-      map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), "top-right");
+      function initMap() {
+        const map = new google.maps.Map(document.getElementById("map"), {
+          center,
+          zoom: 13,
+          mapTypeId: "roadmap",
+          disableDefaultUI: false
+        });
 
-      map.on("load", () => {
+        const boundsObj = new google.maps.LatLngBounds();
+        if (bounds) {
+          boundsObj.extend({ lat: bounds[0][1], lng: bounds[0][0] });
+          boundsObj.extend({ lat: bounds[1][1], lng: bounds[1][0] });
+          map.fitBounds(boundsObj);
+        } else {
+          map.setCenter(center);
+          map.setZoom(13);
+        }
+
         if (lineData.features.length) {
-          map.addSource("routes", { type: "geojson", data: lineData });
-          map.addLayer({
-            id: "route-lines",
-            type: "line",
-            source: "routes",
-            paint: {
-              "line-color": "#f72585",
-              "line-width": 4,
-              "line-opacity": 0.85
-            }
+          lineData.features.forEach((feature) => {
+            const coords = feature.geometry?.coordinates || [];
+            const path = coords.map(([lng, lat]) => ({ lat, lng }));
+            if (!path.length) return;
+            const polyline = new google.maps.Polyline({
+              path,
+              geodesic: false,
+              strokeColor: "#f72585",
+              strokeOpacity: 0.9,
+              strokeWeight: 4
+            });
+            polyline.setMap(map);
           });
         }
 
@@ -334,34 +340,39 @@ function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapC
           const coords = feature.geometry.coordinates;
           if (!Array.isArray(coords) || coords.length < 2) return;
           const order = feature.properties?.order ?? "";
-
-          const markerEl = document.createElement("div");
-          markerEl.className = "pin";
-
-          const dotEl = document.createElement("div");
-          dotEl.className = "pin-dot";
-          dotEl.textContent = order.toString();
-
-          markerEl.appendChild(dotEl);
-
-          new maplibregl.Marker({ element: markerEl, anchor: "left" })
-            .setLngLat(coords)
-            .addTo(map);
+          const marker = new google.maps.Marker({
+            position: { lat: coords[1], lng: coords[0] },
+            map,
+            icon: {
+              path: google.maps.SymbolPath.CIRCLE,
+              scale: 10,
+              fillColor: "#003566",
+              fillOpacity: 1,
+              strokeColor: "#fbb317",
+              strokeWeight: 2
+            },
+            label: {
+              text: order.toString(),
+              color: "#ffffff",
+              fontSize: "11px",
+              fontWeight: "bold"
+            }
+          });
+          boundsObj.extend(marker.getPosition());
         });
 
-        if (bounds) {
-          map.fitBounds(bounds, { padding: 80, linear: true, maxZoom: 16 });
-        } else {
-          map.setCenter(center);
-          map.setZoom(12);
+        if (boundsObj && !boundsObj.isEmpty()) {
+          map.fitBounds(boundsObj);
         }
 
-        map.once("idle", () => {
+        google.maps.event.addListenerOnce(map, "idle", () => {
           setTimeout(() => {
             window.renderDone = true;
-          }, 500);
+          }, 400);
         });
-      });
+      }
+
+      window.initMap = initMap;
     </script>
   </body>
 </html>`;
