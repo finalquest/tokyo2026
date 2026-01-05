@@ -1,0 +1,128 @@
+[
+  {
+    "from": "Plaza Marunouchi",
+    "to": "KITTE Marunouchi",
+    "polyline": "k`xxEc}`tYHk@n@?F?JBDF@BFCJ@RFTV\\LJHZNDFj@LRH",
+    "distance": "0.2 km",
+    "duration": "3 mins"
+  },
+  {
+    "from": "KITTE Marunouchi",
+    "to": "Marunouchi",
+    "polyline": "kwwxEyz`tYOIk@KCA?CIGYMMKQEGCGINQISB?",
+    "distance": "0.1 km",
+    "duration": "2 mins"
+  },
+  {
+    "from": "Marunouchi",
+    "to": "Nihonbashi",
+    "polyline": "u{wxEq~`tYC?HRMNSMUGMBCGKEICq@@eAWEAOBCBECQEGADe@O]c@aBU_@`BiJHQJa@HCRFPDb@}ADu@q@y@@OBE?KMIEEEC@GQIABi@[_Ak@z@uCPi@LYRs@fAuDBEB@Lc@@EGCLe@^mAVw@GC",
+    "distance": "1.1 km",
+    "duration": "16 mins"
+  },
+  {
+    "from": "Nihonbashi",
+    "to": "COREDO Muromachi Terrace",
+    "polyline": "o}wxEgrbtYFBGPQICJ}@a@GEc@tASn@MGICk@[IEa@UABOb@GCEJe@WEABG@Ea@SWKEGIE{@a@SMAB]IBMMAWI]GQCm@Kq@KCHE?c@HDSgAXe@Pg@NgBh@SHSF@BE@O@s@Ts@ViAZy@V?DMDBPLf@Pt@",
+    "distance": "0.9 km",
+    "duration": "13 mins"
+  },
+  {
+    "from": "COREDO Muromachi Terrace",
+    "to": "Nihombashi Mitsukoshi Main Store",
+    "polyline": "}dyxEqjbtYb@lB@BNE@DDApAc@lCy@?GPEa@oB",
+    "distance": "0.3 km",
+    "duration": "4 mins"
+  },
+  {
+    "from": "Nihombashi Mitsukoshi Main Store",
+    "to": "Ginza-itchome Sta.",
+    "polyline": "_xxxE}obtYZvAH^G@DT@HBAb@Q?Eh@OABJC@Ep@LvAVADD@ZJ@CFBd@VJFz@`@CFj@V@ENHpBdAbAh@JFx@`@p@^ADPH@CbAj@fAl@tBhAf@TEHPJBBBI|@b@BSJFEPv@b@fAj@nAr@@CVNj@ZVNh@RRPPHd@XfAh@CHj@XBGbAj@fAj@t@^PJRJAHCHHD?BXP?ADBHDCJTHB?ADJJd@b@PWZe@r@x@",
+    "distance": "1.4 km",
+    "duration": "21 mins"
+  },
+  {
+    "from": "Ginza-itchome Sta.",
+    "to": "Seiko House Ginza Clock Tower",
+    "polyline": "{svxEufatYFFFKDDZ^PRr@r@^`@VVPYP[DKJKb@q@NP`@^\\`@tAvANPA@PLpArARTGJAHJN@R",
+    "distance": "0.5 km",
+    "duration": "7 mins"
+  },
+  {
+    "from": "Seiko House Ginza Clock Tower",
+    "to": "GINZA PLACE",
+    "polyline": "abvxE_z`tYOODICI@IFKBBNR@IQc@j@Pb@Bb@WX_@JLW^DB",
+    "distance": "0.2 km",
+    "duration": "3 mins"
+  },
+  {
+    "from": "GINZA PLACE",
+    "to": "Shiseido Parlour",
+    "polyline": "y}uxE_|`tYV_@l@t@t@|@z@dAvA|AnAhBxCrDYf@KPEES\\ABBB@DHJCDIN",
+    "distance": "0.5 km",
+    "duration": "7 mins"
+  },
+  {
+    "from": "Shiseido Parlour",
+    "to": "Ginza Itoya",
+    "polyline": "_puxEgg`tYNWBB@CT]CEa@_@qCyC_BeBaAeAOGDEOOIEo@q@kAqA][HK_@c@GJEGUUMECIe@i@w@y@MQKKmBsBcBkB",
+    "distance": "0.7 km",
+    "duration": "11 mins"
+  },
+  {
+    "from": "Ginza Itoya",
+    "to": "Cafe de l'ambre",
+    "polyline": "alvxEahatYtC~CfAjALP`@`@z@`AFJHBTTDFFK^b@IJ\\Zd@f@tAzAHDJJBBEDNFRVZ\\VTt@x@l@n@fCnCRPLLHOXe@@@FIRVXZ",
+    "distance": "0.8 km",
+    "duration": "11 mins"
+  },
+  {
+    "from": "Cafe de l'ambre",
+    "to": "Confectionery Ginza West",
+    "polyline": "{kuxEmi`tYm@s@GHAAe@t@DDADUZCCi@`AEJWVS^GHAAi@~@KLe@v@IJ[f@JHW^KGABKK?G}@_A_@a@",
+    "distance": "0.4 km",
+    "duration": "6 mins"
+  },
+  {
+    "from": "Confectionery Ginza West",
+    "to": "TORAYA Ginza Store",
+    "polyline": "{zuxEg``tYa@c@YYBCR_@GGXc@@?HMd@w@JOVc@T[FKCAJK\\g@FKl@n@TT",
+    "distance": "0.3 km",
+    "duration": "4 mins"
+  },
+  {
+    "from": "TORAYA Ginza Store",
+    "to": "Kabuki-za",
+    "polyline": "gtuxEsi`tYmDuDiAiAMOPWZi@ECBCR]BDT_@R[FIR[j@}@@Gf@u@FId@q@ACJIBCx@}@SU_AiA{@gAKLa@g@HMMILQPPNSIICCLONNrAaBHKACOSIL",
+    "distance": "0.7 km",
+    "duration": "11 mins"
+  },
+  {
+    "from": "Kabuki-za",
+    "to": "Tsukiji Hongan-ji Temple",
+    "polyline": "wsuxEclatYHMNRNQACFGDD`@i@BIb@e@EENKNQ^g@FQd@m@fAsAlBcCvAaBCE`@g@eBcCRWBKZ_@JKRUBE",
+    "distance": "0.6 km",
+    "duration": "9 mins"
+  },
+  {
+    "from": "Tsukiji Hongan-ji Temple",
+    "to": "GinzaNovo",
+    "polyline": "qcuxEsfbtYIHQPOPSXCJSVpAfBRZa@f@BDk@p@UTkAxAw@bAwBpCCFOP[b@KH@DGJWZAACHa@h@EEGF@BIJKRuAbBOOMNBBHHORQQMPLHs@z@W^gArAs@dAIJAAKNBBIJYf@]d@k@v@[d@CAEFFHk@n@ECGHDDo@bAGGGJ_A~APTU^b@AEFJDS\\CBFHVVRXe@z@HL",
+    "distance": "1.3 km",
+    "duration": "19 mins"
+  },
+  {
+    "from": "GinzaNovo",
+    "to": "Ginza Six Rooftop Garden",
+    "polyline": "wfvxEki`tYx@|@PPb@q@HIGGVa@DDJORUCCFIBCb@q@CALM^m@LUFGl@aAl@aAECBCR]DBNNA@CBNFRVDE",
+    "distance": "0.4 km",
+    "duration": "6 mins"
+  },
+  {
+    "from": "Ginza Six Rooftop Garden",
+    "to": "GRANROOF",
+    "polyline": "sxuxEws`tYEDSWOGDEOOIEuA{AcAcAHK_@c@GJEGUUMECIe@i@UW]]UZABACm@`Am@~@GJAAQXYd@@@KNo@dABDEDc@d@?OYUQOABCAOK@CWIWQIEgAs@KGC?eAu@o@_@q@c@OG@GCCq@c@oBgAwBqAGL[Sa@WMCKCCE?YUCEZSG@M@IaAe@k@[iAo@w@a@UKk@YMFYOQKUME@W@KCw@]e@QMj@",
+    "distance": "1.4 km",
+    "duration": "20 mins"
+  }
+]

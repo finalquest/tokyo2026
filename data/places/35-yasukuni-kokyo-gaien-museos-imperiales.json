@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Kudanshita Station",
+    "address": "1 Chome-13-19 Kudankita, Chiyoda City, Tokyo 102-0073, Japón",
+    "lat": 35.6954816,
+    "lng": 139.7511544,
+    "place_id": "ChIJd3hxAWuMGGAR7mLxDsxP5v8",
+    "aliases": [
+      "Kudanshita Station"
+    ]
+  },
+  {
+    "name": "Primer Torii",
+    "address": "3 Chome-1-1 Kudankita, Chiyoda City, Tokyo 102-0073, Japón",
+    "lat": 35.6949639,
+    "lng": 139.7477738,
+    "place_id": "ChIJMXrlNWqMGGARY6wZO1zZT7c",
+    "aliases": [
+      "Yasukuni Shrine First Torii"
+    ]
+  },
+  {
+    "name": "Santuario Yasukuni",
+    "address": "3 Chome-1-1 Kudankita, Chiyoda City, Tokyo 102-0073, Japón",
+    "lat": 35.694136,
+    "lng": 139.743849,
+    "place_id": "ChIJ1UOuDWiMGGARkM6Iv-ZU57U",
+    "aliases": [
+      "Yasukuni Shrine Main Hall"
+    ]
+  },
+  {
+    "name": "Yushukan Museum",
+    "address": "Japón, 〒102-8246 Tokyo, Chiyoda City, Kudankita, 3 Chome−1−1 靖國神社",
+    "lat": 35.6949298,
+    "lng": 139.7435901,
+    "place_id": "ChIJMaBzyd6NGGARdrjc4u0e6w4",
+    "aliases": [
+      "Yushukan Museum"
+    ]
+  },
+  {
+    "name": "Parque Nacional Kitanomaru",
+    "address": "1-1 Kitanomarukoen, Chiyoda City, Tokyo 102-0091, Japón",
+    "lat": 35.6922018,
+    "lng": 139.750564,
+    "place_id": "ChIJdY2VgwCNGGARk0lN_mSDtuU",
+    "aliases": [
+      "Kitanomaru Park"
+    ]
+  },
+  {
+    "name": "Nippon Budokan",
+    "address": "2-3 Kitanomarukoen, Chiyoda City, Tokyo 102-8321, Japón",
+    "lat": 35.69333,
+    "lng": 139.7497076,
+    "place_id": "ChIJE_QrgGuMGGARiHFlyXFcWyE",
+    "aliases": [
+      "Nippon Budokan"
+    ]
+  },
+  {
+    "name": "Science and Technology Museum",
+    "address": "2-1 Kitanomarukoen, Chiyoda City, Tokyo 102-0091, Japón",
+    "lat": 35.691589,
+    "lng": 139.753069,
+    "place_id": "ChIJdfZ2xRKMGGARQSyxv6wfzw8",
+    "aliases": [
+      "Science Museum Tokyo"
+    ]
+  },
+  {
+    "name": "Museo Nacional de Arte Moderno de Tokio",
+    "address": "3-1 Kitanomarukoen, Chiyoda City, Tokyo 102-0091, Japón",
+    "lat": 35.6905432,
+    "lng": 139.7546932,
+    "place_id": "ChIJL0kSfg2MGGARKv5KX53ZZ2Y",
+    "aliases": [
+      "The National Museum of Modern Art, Tokyo"
+    ]
+  },
+  {
+    "name": "Archivo Nacional de Japón",
+    "address": "3-2 Kitanomarukoen, Chiyoda City, Tokyo 102-0091, Japón",
+    "lat": 35.6901376,
+    "lng": 139.7538956,
+    "place_id": "ChIJi7vVYQ2MGGAR9KgwgXx4nZY",
+    "aliases": [
+      "National Archives of Japan"
+    ]
+  },
+  {
+    "name": "Kokyo Gaien National Garden",
+    "address": "1-1 Kokyogaien, Chiyoda City, Tokyo 100-0002, Japón",
+    "lat": 35.680117,
+    "lng": 139.7583125,
+    "place_id": "ChIJAQCEbPGLGGARFa0L-v-rNtg",
+    "aliases": [
+      "Kokyo Gaien National Garden"
+    ]
+  },
+  {
+    "name": "Puente Nijubashi",
+    "address": "1-1 Chiyoda, Chiyoda City, Tokyo 100-0001, Japón",
+    "lat": 35.6802297,
+    "lng": 139.7535852,
+    "place_id": "ChIJz0U-RQGLGGARMmz2NOaqNxQ",
+    "aliases": [
+      "Nijubashi Bridge"
+    ]
+  },
+  {
+    "name": "Puerta Ōte-mon",
+    "address": "1-1 Chiyoda, Chiyoda City, Tokyo 100-0001, Japón",
+    "lat": 35.6861142,
+    "lng": 139.7602531,
+    "place_id": "ChIJ7-cJ_wiMGGAR_wayVide6uo",
+    "aliases": [
+      "Imperial Palace East Gardens Otemon Gate"
+    ]
+  },
+  {
+    "name": "The National Museum of the Imperial Collections, Sannomaru Shozokan",
+    "address": "Japón, 〒100-0001 Tokyo, Chiyoda City, Chiyoda, 1−8 皇居東御苑 内",
+    "lat": 35.6864261,
+    "lng": 139.7592442,
+    "place_id": "ChIJPfFaQhOMGGARTfig6X5OJvM",
+    "aliases": [
+      "Museum of the Imperial Collections Sannomaru Shozokan"
+    ]
+  },
+  {
+    "name": "Jardín Koishikawa Kōrakuen",
+    "address": "1 Chome-6-6 Koraku, Bunkyo City, Tokyo 112-0004, Japón",
+    "lat": 35.7056913,
+    "lng": 139.7492718,
+    "place_id": "ChIJBVDeRkaMGGARXsIjrhYCIhs",
+    "aliases": [
+      "Koishikawa Korakuen Gardens"
+    ]
+  },
+  {
+    "name": "GRANSTA TOKYO",
+    "address": "Japón, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1 Chome−9−1 JR東日本 東京駅構内 B1～1F",
+    "lat": 35.6798702,
+    "lng": 139.7675145,
+    "place_id": "ChIJoYwA2fuLGGARrTNyOELGyV8",
+    "aliases": [
+      "Tokyo Station Gransta"
+    ]
+  }
+]

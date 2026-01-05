@@ -21,3 +21,9 @@ Repositorio con bloques modulares para planear un viaje de 21 de marzo al 11 de 
 - Respetá la numeración y el formato "Bloques … / Itinerario …" al crear archivos nuevos.
 - Tras agregar o modificar un bloque, asegurate de actualizar `bloques.md` y de incluir notas de temporada si aplican.
 - Verificá cambios renderizando los `.md` (por ejemplo con `glow`) y corré `npx -y markdownlint-cli2 "**/*.md"` antes de hacer commit.
+- Para mapas podés trabajar bloque a bloque:
+  1. Creá `data/places-input/<block-id>.json` (lista de lugares del MD).
+  2. `npm run fetch:block -- <block-id>` para guardar `data/places/<block-id>.json`.
+  3. `npm run routes:block -- <block-id>` para guardar `data/routes/<block-id>.json`.
+  4. `npm run build:map -- <block-id>` para generar `maps/<block-id>.kml`.
+  Si querés regenerar todo de una vez, mantené `data/places-input.json` con todos los bloques y usá `./run-fetch.sh`, `./run-directions.sh`, `npm run build:maps`.

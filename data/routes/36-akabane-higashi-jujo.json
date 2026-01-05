@@ -1,0 +1,65 @@
+[
+  {
+    "from": "Estación de Akabane",
+    "to": "Akabane Hachiman Shrine",
+    "polyline": "ozjyE{ixsYiBXABCDKBC?CpAt@vBARc@Zo@`@GACGC@OJ@Bw@d@e@\\uAl@OJyBjAyBhAkBfAEHGG[PDFQJ]V}@v@SZICKC[Sa@QO?MLe@p@CF",
+    "distance": "0.8 km",
+    "duration": "12 mins"
+  },
+  {
+    "from": "Akabane Hachiman Shrine",
+    "to": "Jōshōji Temple",
+    "polyline": "w{kyEeowsYDIj@y@NE\\Jd@ZPDB@FMVWHNBD@BBCJMbAw@NKNQ@BD@JI@CAAPMt@c@nAq@fCqAnAs@xAy@h@Yp@d@z@j@JOKMPOBCHLh@n@dAhADB@G@?PNAJLHf@Vr@ZR{@Hg@?MRAASCKACNIt@ITERIBE",
+    "distance": "1.0 km",
+    "duration": "14 mins"
+  },
+  {
+    "from": "Jōshōji Temple",
+    "to": "Nanzoin Temple",
+    "polyline": "opjyE_|wsYABUJEB@FBR?b@In@CDBHHTHNHDRFDLS`AGACNJBhBt@d@RXNJDAEFD|@^`A|Dn@xBV~@?JHRn@dCBPDHH^ZrATl@^d@NLXNFBC@?@DFFEj@FPAL`B@h@RjCFz@L|AJJ?JEBAB@FGT@RIRC^DJ[h@KZCV@v@JpCI@E@CF@b@DA@HBv@BRHh@RZv@t@x@x@NC|@EBtAHxAAPH`AHXFj@Fp@@d@Hf@Tx@F@@HBj@@bAJdAAJMAQEBn@?z@DRJ^J`@]JC??HH\\f@xAn@xA",
+    "distance": "2.0 km",
+    "duration": "29 mins"
+  },
+  {
+    "from": "Nanzoin Temple",
+    "to": "Seikoji",
+    "polyline": "qniyEultsYk@mAa@oAQm@AOOCUo@Sm@a@oAEOCo@EAs@M{@MiA][KkAScAQs@_@c@UIKGMAIQBK?g@?EDGOIm@G_@@e@Sk@[_Ao@sAKOGEG?OiAE]Ga@YuBKs@EQLAEg@G?AEGg@Io@UiBg@_Ei@iEI_@EKEUSy@ISC@MYo@cBe@qAISYY]Og@Ou@Io@Ce@E?GSCADQCe@MUIw@_@sAcAkA}@g@]BIAAOMCD_@WcAs@}BiBc@q@Qg@_@{AKc@@IHy@Nm@I_BBGOWBAOWa@s@i@aA?IGC[g@Wa@U[uAqBOQ{@}@MK_@_@AHk@[CA@IF_@?MNEHCECSKHu@Jq@NiAWQXiB]Oi@a@IE",
+    "distance": "2.7 km",
+    "duration": "38 mins"
+  },
+  {
+    "from": "Seikoji",
+    "to": "Old Iwabuchi Watergate",
+    "polyline": "ialyEsqxsY`@XJHBGJQHMXa@HKOMq@k@q@k@wBaAqBeAq@U}@Su@U[A[BS@C@KA@O@SJ_A@I_@QaAe@a@Mg@UbBoGx@gD?QLa@DYC}@Ce@?aAFu@D[Ak@BqADQBWPk@iBw@",
+    "distance": "1.1 km",
+    "duration": "16 mins"
+  },
+  {
+    "from": "Old Iwabuchi Watergate",
+    "to": "Suwa Shrine",
+    "polyline": "krlyEcczsYhBv@Qj@CVEPCpA@j@EZGt@?`ABd@B|@EXM`@?Py@fDcBnGf@T`@L`Ad@^PAHK~@Cb@L@KjAK~BAbABr@b@dAQb@OYAHCd@CdAKvCIrCI~CCPC|@D@b@PJF?DCJK~Ap@LZF^PXNJNDFUTIJ@BVZIJSZ?PAF?VAf@A~@?ZJbA?RD\\^ZVTRr@DLLBVFJFN\\B`@Ch@A\\ELENI~@If@Qf@Kd@Dp@B^HTf@xAFRHLh@fBRp@@TVdA`@`BLb@Xl@HVh@nBNf@DLFN@ATZGFFNIFC@JNLVBB",
+    "distance": "2.3 km",
+    "duration": "34 mins"
+  },
+  {
+    "from": "Suwa Shrine",
+    "to": "Katori Shrine",
+    "polyline": "o_lyEkzusY]k@LIGOHGTUX[b@k@BAP]l@eBdAwCfBiEjBmEXg@XYTO^Qd@O`@OVOZ]f@m@DARa@L[DBFOEEd@aAXm@Tc@`@y@zBgChBwBr@qA`@eADECCX_ATw@FWB@BCDUECHYJw@Fu@@s@?s@@WDCRCZCr@I?BJCACTEpA[TGREn@YdA_@b@On@Q\\M?DFCLCp@Sp@O`@GDGDBl@GTAJIFDpBQ`@ETE?BFCXC`AKhAKr@ODABBFLVNVLNLJLDH]Zs@l@CHHNR\\@B",
+    "distance": "2.1 km",
+    "duration": "30 mins"
+  },
+  {
+    "from": "Katori Shrine",
+    "to": "Jūjō Ginza Shopping Street",
+    "polyline": "mriyEgcxsYP\\BDL@PCJCLBVAG{@HBPVXY^UfAo@\\SFEHPJVBFv@e@DC@EF_@JORIZW@DNRLR`@@ZPLFPRB@NOn@@BTJXZKJA@J?H^R@D@DLC@FD?DADd@BLFCf@K`@Id@K@LHAHILUBBJCXGn@Mf@QEG`@SFJf@SXMrA[zBc@n@IDCJ@BDJ`@V~@z@CjCAB?Do@x@Dr@F@OBW?ED@`@@j@?lAAZE|AYZG",
+    "distance": "1.5 km",
+    "duration": "21 mins"
+  },
+  {
+    "from": "Jūjō Ginza Shopping Street",
+    "to": "Higashi-Jūjō Station",
+    "polyline": "kpgyEqjxsYoB\\a@HgA@AyA?a@kAC@QAQEQCCi@@{@?[BeA?}@?uAAG?@EF]@KAk@GaBIqBKoA_@{C@ACMIBUHMo@Sm@I_@FONOVUJMEIICBITMx@a@f@Yd@W",
+    "distance": "1.0 km",
+    "duration": "13 mins"
+  }
+]

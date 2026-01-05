@@ -1,0 +1,100 @@
+[
+  {
+    "from": "Kudanshita Station",
+    "to": "Primer Torii",
+    "polyline": "ywzxE{c~sYIBGCDz@Nt@JlAFt@JtARpABRDTGBF^@?LEFTHt@R`AJh@",
+    "distance": "0.3 km",
+    "duration": "5 mins"
+  },
+  {
+    "from": "Primer Torii",
+    "to": "Santuario Yasukuni",
+    "polyline": "muzxEin}sYVlB\\~BCBA@CBAFAHDVJJF@`@lCLbALz@`@xCHl@RE",
+    "distance": "0.4 km",
+    "duration": "5 mins"
+  },
+  {
+    "from": "Santuario Yasukuni",
+    "to": "Yushukan Museum",
+    "polyline": "mozxEiv|sYSDBJHd@i@LoAXG@Gi@",
+    "distance": "0.1 km",
+    "duration": "2 mins"
+  },
+  {
+    "from": "Yushukan Museum",
+    "to": "Parque Nacional Kitanomaru",
+    "polyline": "}szxEqt|sYIs@E_@JCVGDCLSE_@]eBlAWXIGc@t@Q_@gBUmAIy@KQDAb@MQ{@Q}@AKCMEDWqA}@uEJE`@{@fBg@JCDBFHL\\ZZLDT@^C`@KXMb@_@f@i@PUVg@Nm@DU?ERB^JF]Lk@",
+    "distance": "1.0 km",
+    "duration": "14 mins"
+  },
+  {
+    "from": "Parque Nacional Kitanomaru",
+    "to": "Nippon Budokan",
+    "polyline": "{bzxEw_~sYS|@Ot@c@`AYd@MMSVMQACEDc@^",
+    "distance": "0.2 km",
+    "duration": "2 mins"
+  },
+  {
+    "from": "Nippon Budokan",
+    "to": "Science and Technology Museum",
+    "polyline": "yhzxEax}sYr@s@PUVg@Nm@Be@NqBJ}@Pg@\\g@hA_AdBuAHGKSI[@Qq@h@MHEBCAk@wA",
+    "distance": "0.5 km",
+    "duration": "7 mins"
+  },
+  {
+    "from": "Science and Technology Museum",
+    "to": "Museo Nacional de Arte Moderno de Tokio",
+    "polyline": "kazxEin~sYl@vATKp@i@FGBBV^HPbAu@HCBG^Yj@c@nByAFGIQGKo@_BYy@YeA",
+    "distance": "0.5 km",
+    "duration": "6 mins"
+  },
+  {
+    "from": "Museo Nacional de Arte Moderno de Tokio",
+    "to": "Archivo Nacional de Japón",
+    "polyline": "gwyxEyz~sY`@tA`@hA",
+    "distance": "80 m",
+    "duration": "1 min"
+  },
+  {
+    "from": "Archivo Nacional de Japón",
+    "to": "Kokyo Gaien National Garden",
+    "polyline": "cuyxEyu~sYa@iAQg@a@}ASy@CK@AEWMc@]qAAOFYDA?BBZHEDYFa@RyCVcDLsAXyBToBDMXc@bAwAr@_AzCo@x@U|Bs@t@OxAT|Cj@XF^BFHJDPFTHTLfAv@^Tt@XzD~@jAX\\HTLz@f@ZPH[SOHQXHrBjAnCzAzDvB",
+    "distance": "1.8 km",
+    "duration": "24 mins"
+  },
+  {
+    "from": "Kokyo Gaien National Garden",
+    "to": "Puente Nijubashi",
+    "polyline": "}wwxE_p_tYxBnA@Gb@TAF`@TWx@@@c@dBsA~E_ApDbA`@dAd@FLBR?JEf@G`@ITILSRIDS?cAM",
+    "distance": "0.6 km",
+    "duration": "10 mins"
+  },
+  {
+    "from": "Puente Nijubashi",
+    "to": "Puerta Ōte-mon",
+    "polyline": "mxwxE_s~sYlANHCXQR]PiAAa@CQWQuAk@a@Ob@aBp@kC`BiGe@YOQK?]QcBaAaB}@mFyCc@Si@Y}@o@qAu@]Ig@McAWmBc@qA_@]OiAw@g@]g@QKEMGCZ[lCADO@SC",
+    "distance": "1.4 km",
+    "duration": "18 mins"
+  },
+  {
+    "from": "Puerta Ōte-mon",
+    "to": "The National Museum of the Imperial Collections, Sannomaru Shozokan",
+    "polyline": "g}xxE_|_tYUCCBEJEj@Dd@NpA",
+    "distance": "0.1 km",
+    "duration": "1 min"
+  },
+  {
+    "from": "The National Museum of the Imperial Collections, Sannomaru Shozokan",
+    "to": "Jardín Koishikawa Kōrakuen",
+    "polyline": "w}xxEiv_tYBd@EzAEhABRLLTHFBNXk@d@c@`@UJ{Cp@yAZwBf@gAZ[Ng@HOEGIKYS}ABG^QDEFQ?WEWGIMEW?O?kA?EAGU?[CEOEaAGCb@Qt@@f@Cl@C?C@EFE?I`AIjAG`@EXIDC_@E@GXUHMq@a@L]LWDCAI@@DO@Q?a@Ac@Cc@Cy@MwAKM?An@IB{@V_Cj@KPG?BGFK@CSDIi@MDk@Dk@Bw@Ds@DUDa@ROLO@c@T?OC@m@T?Pi@V[NQFi@VoBz@gAf@MDMFo@ZmAj@kAd@oAj@QHs@\\w@\\EDu@^AC]Nw@^wAp@G@w@\\_Br@QHADK@KDKFk@V?COD?Ja@CaAG@SGAu@EQpEC\\eBKE?Gn@MnBGh@Mf@Sb@Ub@Yr@_@dB?LEJ?JG@EDCLm@vCIA?ECMCU?q@K{@GQ?KKWIIGOMUKMIEE?KAKWIUC?MHC?",
+    "distance": "3.1 km",
+    "duration": "44 mins"
+  },
+  {
+    "from": "Jardín Koishikawa Kōrakuen",
+    "to": "GRANSTA TOKYO",
+    "polyline": "ow|xEkw}sYNGH@Nh@D@J?F@LLJNBPLLJPBTHVDh@BVAPFn@@LH@BGh@sCBGBEBCDE@KBI?IJe@R_AXs@h@gALg@Fi@LoBFo@D?dBJB]PqEt@DF@ARZB|@FH??KNE?Bn@YRKJA@ERItCqAFCnAk@|As@@BLId@W~@a@fBy@jB{@`Aa@|@c@JELGLEb@QlAk@xAq@bAc@h@W?Ql@UBA?Nb@UNANMRIJINCz@Gj@ExAGfCo@nA[BWRBCECBVD@S@QBSFSJI\\]Z_@fC}Bb@g@HUJa@@o@@w@n@Dx@DVFZFb@@CN|@HB?Fm@PoAJaAN{@zBaDTYJC|@SlBa@zAc@xAc@ZGbAPx@LfARjAT^BZRBKD[GCQEHY@WACNBBHBYPmAHg@PkANkA?IF@H_A@GGAFSPwAFg@RcBNaAXeCD@@IHk@EABMJy@NqAL_AVkBFBN{@KGRoBPgAHWBU@GJBfA^@I?GHAHMFSVJhEp@jIzBx@VpBT",
+    "distance": "4.2 km",
+    "duration": "1 hour 0 mins"
+  }
+]

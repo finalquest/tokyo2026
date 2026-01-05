@@ -1,0 +1,10 @@
+.env
+node_modules
+maps/*.geojson
+data/places-input.json
+data/places.json
+
+data/routes.json
+data/places/
+data/routes/
+data/places-input/*.json

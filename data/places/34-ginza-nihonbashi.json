@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Plaza Marunouchi",
+    "address": "1 Chome-9 Marunouchi, Chiyoda City, Tokyo 100-0005, Japón",
+    "lat": 35.6815604,
+    "lng": 139.7654768,
+    "place_id": "ChIJAylxefmLGGARmouNFJGoD3E",
+    "aliases": [
+      "Tokyo Station Marunouchi Entrance"
+    ]
+  },
+  {
+    "name": "KITTE Marunouchi",
+    "address": "2 Chome-7-2 Marunouchi, Chiyoda City, Tokyo 100-0005, Japón",
+    "lat": 35.6797983,
+    "lng": 139.764865,
+    "place_id": "ChIJdUbpSvqLGGARCmbc6R7hZJ8",
+    "aliases": [
+      "KITTE Garden"
+    ]
+  },
+  {
+    "name": "Marunouchi",
+    "address": "Marunouchi, Chiyoda, Tokio 100-0005, Japón",
+    "lat": 35.6804062,
+    "lng": 139.7664859,
+    "place_id": "ChIJdUl5zfuLGGARyfYneysknCM",
+    "aliases": [
+      "Marunouchi Naka-dori Avenue"
+    ]
+  },
+  {
+    "name": "Nihonbashi",
+    "address": "Nihonbashi, Chūō, Tokio 103-0027, Japón",
+    "lat": 35.6811836,
+    "lng": 139.7741538,
+    "place_id": "ChIJU_JmlleJGGARa7vrQMGllR4",
+    "aliases": [
+      "Nihonbashi Bridge"
+    ]
+  },
+  {
+    "name": "COREDO Muromachi Terrace",
+    "address": "3 Chome-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022, Japón",
+    "lat": 35.6877483,
+    "lng": 139.772533,
+    "place_id": "ChIJmwZ21Z-LGGARai_Qx1pvoRI",
+    "aliases": [
+      "Coredo Muromachi Terrace"
+    ]
+  },
+  {
+    "name": "Nihombashi Mitsukoshi Main Store",
+    "address": "1 Chome-4-1 Nihonbashimuromachi, Chuo City, Tokyo 103-8001, Japón",
+    "lat": 35.6856332,
+    "lng": 139.7734296,
+    "place_id": "ChIJiXTqi1WJGGAR08VFBmKoNrc",
+    "aliases": [
+      "Mitsukoshi Nihombashi Main Store"
+    ]
+  },
+  {
+    "name": "Ginza-itchome Sta.",
+    "address": "Japón, 〒104-0061 東京都中央区銀座1丁目7−12",
+    "lat": 35.6743941,
+    "lng": 139.7669788,
+    "place_id": "ChIJNckFiuOLGGARPhaqjOBF6AY",
+    "aliases": [
+      "Ginza-itchome Station Intersection"
+    ]
+  },
+  {
+    "name": "Seiko House Ginza Clock Tower",
+    "address": "4 Chome-5-11 Ginza, Chuo City, Tokyo 104-0061, Japón",
+    "lat": 35.6715697,
+    "lng": 139.7650504,
+    "place_id": "ChIJDcZ1YZiLGGAR8j1tcFitQ8k",
+    "aliases": [
+      "Wako Ginza Clock Tower"
+    ]
+  },
+  {
+    "name": "GINZA PLACE",
+    "address": "5 Chome-8-1 Ginza, Chuo City, Tokyo 104-0061, Japón",
+    "lat": 35.6708125,
+    "lng": 139.7652021,
+    "place_id": "ChIJY6jpY-aLGGAR5riRHdhpFwc",
+    "aliases": [
+      "Ginza Place"
+    ]
+  },
+  {
+    "name": "Shiseido Parlour",
+    "address": "Japón, 〒104-0061 Tokyo, Chuo City, Ginza, 8 Chome−8−3 4 5F",
+    "lat": 35.6685784,
+    "lng": 139.7619023,
+    "place_id": "ChIJoVC4i-iLGGAR9mJULMWzaxM",
+    "aliases": [
+      "Shiseido Parlour Ginza"
+    ]
+  },
+  {
+    "name": "Ginza Itoya",
+    "address": "2 Chome-7-15 Ginza, Chuo City, Tokyo 104-0061, Japón",
+    "lat": 35.6731273,
+    "lng": 139.7672138,
+    "place_id": "ChIJKQAKAOSLGGARwGhpOXWgfYo",
+    "aliases": [
+      "Itoya Ginza Main Store"
+    ]
+  },
+  {
+    "name": "Cafe de l'ambre",
+    "address": "8 Chome-10-15 Ginza, Chuo City, Tokyo 104-0061, Japón",
+    "lat": 35.6679572,
+    "lng": 139.7623402,
+    "place_id": "ChIJZxiNeeiLGGARH3hUjIwOpSs",
+    "aliases": [
+      "Cafe de L'Ambre"
+    ]
+  },
+  {
+    "name": "Confectionery Ginza West",
+    "address": "7 Chome-3-6 Ginza, Chuo City, Tokyo 104-0061, Japón",
+    "lat": 35.6704042,
+    "lng": 139.7608007,
+    "place_id": "ChIJmbgnLu-LGGARuo3v6lcM3Cc",
+    "aliases": [
+      "Ginza West Main Store"
+    ]
+  },
+  {
+    "name": "TORAYA Ginza Store",
+    "address": "Japón, 〒104-0061 Tokyo, Chuo City, Ginza, 7 Chome−8−17 虎屋銀座ビル 4階",
+    "lat": 35.6693157,
+    "lng": 139.7623527,
+    "place_id": "ChIJy-_9nOiLGGARo8OeZCBG0-I",
+    "aliases": [
+      "Toraya Ginza"
+    ]
+  },
+  {
+    "name": "Kabuki-za",
+    "address": "4 Chome-12-15 Ginza, Chuo City, Tokyo 104-0061, Japón",
+    "lat": 35.6693303,
+    "lng": 139.7677875,
+    "place_id": "ChIJbUAZSOeLGGARGMEf4WW16AE",
+    "aliases": [
+      "Kabukiza Theatre"
+    ]
+  },
+  {
+    "name": "Tsukiji Hongan-ji Temple",
+    "address": "3 Chome-15-1 Tsukiji, Chuo City, Tokyo 104-8435, Japón",
+    "lat": 35.6664862,
+    "lng": 139.7722836,
+    "place_id": "ChIJjz_yQt-LGGARkyfs8FyJeVA",
+    "aliases": [
+      "Tsukiji Hongwanji Temple"
+    ]
+  },
+  {
+    "name": "GinzaNovo",
+    "address": "5 Chome-2-1 Ginza, Chuo City, Tokyo 104-0061, Japón",
+    "lat": 35.6722448,
+    "lng": 139.7624127,
+    "place_id": "ChIJy18lj-iLGGARJq-X6_EXofY",
+    "aliases": [
+      "Tokyu Plaza Ginza Rooftop"
+    ]
+  },
+  {
+    "name": "Ginza Six Rooftop Garden",
+    "address": "Japón, 〒104-0061 Tokyo, Chuo City, Ginza, 6 Chome−10−11 14F",
+    "lat": 35.6699047,
+    "lng": 139.7641037,
+    "place_id": "ChIJ_wniXxmLGGARLgE_DYPbKiY",
+    "aliases": [
+      "Ginza Six Rooftop Garden"
+    ]
+  },
+  {
+    "name": "GRANROOF",
+    "address": "Japón, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1 Chome−9−1 グランルーフ ２F",
+    "lat": 35.68009929999999,
+    "lng": 139.7680666,
+    "place_id": "ChIJH6WfIaOLGGARWGtimTHrqUI",
+    "aliases": [
+      "Tokyo Station GranRoof"
+    ]
+  }
+]

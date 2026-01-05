@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Estación de Akabane",
+    "address": "1-chōme-1 Akabane, Kita City, Tokyo 115-0045, Japón",
+    "lat": 35.7777451,
+    "lng": 139.7210653,
+    "place_id": "ChIJWX3QWB2TGGARPRJlTdnE96Q",
+    "aliases": [
+      "Akabane Station West Exit"
+    ]
+  },
+  {
+    "name": "Akabane Hachiman Shrine",
+    "address": "4 Chome-1-6 Akabanedai, Kita City, Tokyo 115-0053, Japón",
+    "lat": 35.7832158,
+    "lng": 139.7171134,
+    "place_id": "ChIJ_6hJ0xuTGGARfo3Qv_3iLfk",
+    "aliases": [
+      "Akabane Hachiman Shrine"
+    ]
+  },
+  {
+    "name": "Jōshōji Temple",
+    "address": "1 Chome-21-17 Akabanenishi, Kita City, Tokyo 115-0055, Japón",
+    "lat": 35.776084,
+    "lng": 139.719181,
+    "place_id": "ChIJpXrrX-KSGGARvqh-er3I_5M",
+    "aliases": [
+      "Sosenji Temple Akabane"
+    ]
+  },
+  {
+    "name": "Nanzoin Temple",
+    "address": "48-8 Hasunumacho, Itabashi City, Tokyo 174-0052, Japón",
+    "lat": 35.7706422,
+    "lng": 139.7015218,
+    "place_id": "ChIJMW20_CeTGGAR833BRtRIdsw",
+    "aliases": [
+      "Nanzo-in Temple Akabane"
+    ]
+  },
+  {
+    "name": "Seikoji",
+    "address": "32-11 Iwabuchimachi, Kita City, Tokyo 115-0041, Japón",
+    "lat": 35.7841309,
+    "lng": 139.7225007,
+    "place_id": "ChIJzdy-uASTGGARB3ryU3Mu9I4",
+    "aliases": [
+      "Seikoji Temple Akabane"
+    ]
+  },
+  {
+    "name": "Old Iwabuchi Watergate",
+    "address": "5 Chome-41 Shimo, Kita City, Tokyo 115-0042, Japón",
+    "lat": 35.7867653,
+    "lng": 139.7306154,
+    "place_id": "ChIJ53a1WKqTGGARMSSM7vc7IiE",
+    "aliases": [
+      "Old Iwabuchi Water Gate"
+    ]
+  },
+  {
+    "name": "Suwa Shrine",
+    "address": "3 Chome-1-2 Akabanekita, Kita City, Tokyo 115-0052, Japón",
+    "lat": 35.7839501,
+    "lng": 139.7085096,
+    "place_id": "ChIJQbzk-jyTGGAR87QoD5v_ry0",
+    "aliases": [
+      "Suwa Shrine Akabanekita"
+    ]
+  },
+  {
+    "name": "Katori Shrine",
+    "address": "2 Chome-22-7 Akabanenishi, Kita City, Tokyo 115-0055, Japón",
+    "lat": 35.7712476,
+    "lng": 139.7205082,
+    "place_id": "ChIJ5_vg3eSSGGARI3YFFO9s03g",
+    "aliases": [
+      "Akabane Katori Shrine"
+    ]
+  },
+  {
+    "name": "Jūjō Ginza Shopping Street",
+    "address": "1 Chome-4-8 Jujonakahara, Kita City, Tokyo 114-0031, Japón",
+    "lat": 35.7608549,
+    "lng": 139.7215039,
+    "place_id": "ChIJjRNiXu2SGGARodovI1-Wt1E",
+    "aliases": [
+      "Higashi-Jujo Shotengai"
+    ]
+  },
+  {
+    "name": "Higashi-Jūjō Station",
+    "address": "3-chōme-18 Higashijūjō, Kita City, Tokyo 114-0001, Japón",
+    "lat": 35.763949,
+    "lng": 139.7268722,
+    "place_id": "ChIJAed8uvSSGGARn3sNIsrLdYw",
+    "aliases": [
+      "Higashi-Jujo Station"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "itinerarios",
+  "version": "1.0.0",
+  "description": "Repositorio con bloques modulares para planear un viaje de 21 de marzo al 11 de abril de 2026 en Tokio y alrededores. Cada bloque describe un día completo en formato Markdown (concepto, estructura, paradas clave, consejos prácticos y notas de temporada: sakura, eventos, horarios).",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-places.js",
+    "fetch:block": "node scripts/fetch-places-block.js",
+    "routes": "node scripts/fetch-directions.js",
+    "routes:block": "node scripts/fetch-directions-block.js",
+    "build:maps": "node scripts/build-maps.js",
+    "build:map": "node scripts/build-map-block.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.4.2",
+    "@googlemaps/polyline-codec": "^1.0.32",
+    "dotenv": "^17.2.3",
+    "tokml": "^0.4.0"
+  },
+  "type": "module"
+}
