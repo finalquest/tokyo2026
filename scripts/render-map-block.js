@@ -87,7 +87,11 @@ async function renderScreenshot() {
     const page = await browser.newPage();
     await page.setContent(html, { waitUntil: "networkidle0" });
     await page.waitForFunction("window.renderDone === true", { timeout: 20000 });
-    await page.screenshot({ path: outputPngPath, type: "png" });
+    await page.screenshot({
+      path: outputPngPath,
+      type: "png",
+      omitBackground: false,
+    });
     console.log(`PNG generado: ${outputPngPath}`);
   } finally {
     await browser.close();
@@ -184,7 +188,6 @@ function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapC
       .pin {
         display: inline-flex;
         align-items: center;
-        gap: 6px;
         font-family: "Open Sans", "Arial Unicode MS", sans-serif;
         font-size: 12px;
         font-weight: 600;
@@ -203,18 +206,35 @@ function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapC
         line-height: 1;
         box-shadow: 0 0 4px rgba(0,0,0,0.35);
       }
-      .pin-label {
+      #legend {
+        position: absolute;
+        top: 16px;
+        left: 16px;
         background: rgba(255,255,255,0.95);
-        border-radius: 4px;
-        padding: 2px 6px;
-        color: #111111;
-        text-shadow: 0 0 2px rgba(255,255,255,0.5);
-        box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+        padding: 12px 16px;
+        border-radius: 8px;
+        max-width: 320px;
+        font-family: "Open Sans", "Arial Unicode MS", sans-serif;
+        font-size: 12px;
+        line-height: 1.4;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      }
+      #legend h2 {
+        font-size: 14px;
+        margin: 0 0 6px;
+      }
+      #legend ul {
+        margin: 0;
+        padding-left: 18px;
+      }
+      #legend li {
+        margin-bottom: 4px;
       }
     </style>
   </head>
   <body>
     <div id="map"></div>
+    <div id="legend"></div>
     <script src="https://unpkg.com/maplibre-gl@${maplibreVersion}/dist/maplibre-gl.js"></script>
     <script>
       const pointData = ${JSON.stringify(points)};
@@ -246,12 +266,26 @@ function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapC
           });
         }
 
+        const legend = document.getElementById("legend");
+        legend.innerHTML = "<h2>Paradas</h2>";
+        const listEl = document.createElement("ul");
+        pointData.features
+          .slice()
+          .sort((a, b) => (a.properties.order || 0) - (b.properties.order || 0))
+          .forEach((feature) => {
+            const listItem = document.createElement("li");
+            const rawName = feature.properties.name || "";
+            const cleaned = rawName.replace(/^\\d+\\.\\s*/, "");
+            listItem.textContent = \`\${feature.properties.order}. \${cleaned}\`;
+            listEl.appendChild(listItem);
+          });
+        legend.appendChild(listEl);
+
         pointData.features.forEach((feature) => {
           if (!feature.geometry || feature.geometry.type !== "Point") return;
           const coords = feature.geometry.coordinates;
           if (!Array.isArray(coords) || coords.length < 2) return;
           const order = feature.properties?.order ?? "";
-          const labelText = feature.properties?.name || "";
 
           const markerEl = document.createElement("div");
           markerEl.className = "pin";
@@ -260,12 +294,7 @@ function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapC
           dotEl.className = "pin-dot";
           dotEl.textContent = order.toString();
 
-          const labelEl = document.createElement("div");
-          labelEl.className = "pin-label";
-          labelEl.textContent = labelText;
-
           markerEl.appendChild(dotEl);
-          markerEl.appendChild(labelEl);
 
           new maplibregl.Marker({ element: markerEl, anchor: "left" })
             .setLngLat(coords)
