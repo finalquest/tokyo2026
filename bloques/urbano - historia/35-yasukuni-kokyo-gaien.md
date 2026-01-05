@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 35-yasukuni-kokyo-gaien](/maps/35-yasukuni-kokyo-gaien.png)
+
+
+
 ### Concepto del lugar
 
 Bloque dedicado a la capa política y militar más pesada de Tokio: santuario Yasukuni, museo Yūshūkan, fosos Tokugawa y jardines del Palacio Imperial. Sirve para procesar historia moderna sin mezclarla con otros barrios.

@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 17-kamakura-enoshima](/maps/17-kamakura-enoshima.png)
+
+
+
 ### Concepto del lugar
 
 Clásica escapada costera combinando templos zen, Daibutsu icónico y un cierre en la isla Enoshima. Traslado < 1.5 h desde Tokio; ideal para día soleado.

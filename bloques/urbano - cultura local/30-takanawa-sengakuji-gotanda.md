@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 30-takanawa-sengakuji-gotanda](/maps/30-takanawa-sengakuji-gotanda.png)
+
+
+
 ### Concepto del lugar
 
 Un bloque para explorar el sur de Tokio entre estaciones del Tōkaidō: templos samuráis, barrios residenciales discretos y zonas ferroviarias antiguas. Ideal para día nublado o después de actividades en Shinagawa.

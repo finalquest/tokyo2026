@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 23-fujinomiya](/maps/23-fujinomiya.png)
+
+
+
 ### Concepto del lugar
 
 Base del Monte Fuji por el lado sur. Combina el santuario Sengen Taisha, cascadas de Shiraito y comida local como yakisoba de Fujinomiya. Traslado ~2 h (Shinkansen hasta Mishima + bus).

@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 18-nikko-utsunomiya](/maps/18-nikko-utsunomiya.png)
+
+
+
 ### Concepto del lugar
 
 Excursión de día completo combinando el complejo sagrado de Nikkō (UNESCO) con una parada gastronómica en Utsunomiya para gyoza. Traslado ~2 h desde Tokio dependiendo del tren.

@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 25-kanda-jimbocho-tokyo-station](/maps/25-kanda-jimbocho-tokyo-station.png)
+
+
+
 ### Concepto del lugar
 
 Enfoca la transición del Edo académico al Tokio moderno: santuarios guardianes, librerías independientes, cafés retro y el regreso al nodo ferroviario del país. Útil para días de clima incierto porque alterna espacios cubiertos y paseos arbolados.

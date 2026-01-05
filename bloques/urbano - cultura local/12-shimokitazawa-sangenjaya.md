@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 12-shimokitazawa-sangenjaya](/maps/12-shimokitazawa-sangenjaya.png)
+
+
+
 ### Concepto del lugar
 
 Explora la cara bohemia de Tokio: tiendas indie, cafés de tercera ola, bares diminutos y el encanto de la línea Setagaya. Perfecto para compras vintage y noches improvisadas.

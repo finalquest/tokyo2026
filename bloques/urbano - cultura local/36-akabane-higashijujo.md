@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 36-akabane-higashijujo](/maps/36-akabane-higashijujo.png)
+
+
+
 ### Concepto del día
 
 Continuación natural del bloque 10 (Itabashi + Ōyama) pero funciona también de manera independiente. Cubre el corredor obrero del norte: santuarios sobre vías, templos discretos, infraestructura fluvial Arakawa y shotengai interminables. Ritmo flexible pero con más caminata abierta.

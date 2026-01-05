@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 10-itabashi-oyama](/maps/10-itabashi-oyama.png)
+
+
+
 ### Concepto del día
 
 Bloque centrado en tu base de Itabashi: restos de la Nakasendō, templos de barrio y el shotengai Happy Road. Perfecto para aclimatarse y entender el contexto local.

@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 1-asakusa](/maps/1-asakusa.png)
+
+
+
 ### Concepto del lugar
 
 Este itinerario recorre uno de los núcleos más antiguos del antigua Edo.

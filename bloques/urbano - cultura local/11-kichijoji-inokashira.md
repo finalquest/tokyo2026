@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 11-kichijoji-inokashira](/maps/11-kichijoji-inokashira.png)
+
+
+
 ### Concepto del lugar
 
 Barrio querido por los tokiotas para vivir: shotengai animados, cafés diminutos y un parque central con lago. Ideal para día informal con énfasis en comida local y paseos.

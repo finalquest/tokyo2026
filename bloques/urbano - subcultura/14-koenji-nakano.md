@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 14-koenji-nakano](/maps/14-koenji-nakano.png)
+
+
+
 ### Concepto del lugar
 
 Explora la cuna de la contracultura tokioíta: punk, vintage, manga retro y bares diminutos. Pura vida de barrio con toques otaku fuera de Akihabara.

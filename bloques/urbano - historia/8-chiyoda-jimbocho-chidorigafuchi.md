@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 8-chiyoda-jimbocho-chidorigafuchi](/maps/8-chiyoda-jimbocho-chidorigafuchi.png)
+
+
+
 ### Concepto del lugar
 
 Día dedicado al eje político e intelectual de Tokio: Palacio Imperial, librerías antiguas y fosos llenos de sakura. Mezcla caminatas ceremoniales, cafés literarios y colecciones especializadas.

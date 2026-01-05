@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 27-chofu-jindaiji-jindai-botanical](/maps/27-chofu-jindaiji-jindai-botanical.png)
+
+
+
 ### Concepto del lugar
 
 Excursión corta al oeste de Tokio enfocada en templos antiguos, soba artesanal y jardines botánicos. Ambiente rural sin salir de la ciudad, perfecto para día templado.

@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 19-hakone](/maps/19-hakone.png)
+
+
+
 ### Concepto del lugar
 
 Circuito volcánico clásico con vistas del monte Fuji, crucero en lago Ashi y onsen. Traslado 90 min desde Shinjuku con pase Hakone Freepass.

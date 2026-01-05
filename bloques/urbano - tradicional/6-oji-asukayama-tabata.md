@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 6-oji-asukayama-tabata](/maps/6-oji-asukayama-tabata.png)
+
+
+
 ### Concepto del lugar
 
 Explora el norte histórico de Tokio donde sobreviven tranvías, templos guardianes y parques que inspiraron ukiyo-e. Ōji ofrece vida diaria con toques folclóricos, Asukayama añade museos compactos y Tabata remata con calles literarias.

@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 22-sawara](/maps/22-sawara.png)
+
+
+
 ### Concepto del lugar
 
 Pequeña ciudad Edo a orillas del río Ono, excelente para fotos de almacenes y paseos fluviales. Traslado ~2 h desde Tokio (JR a Narita + tren local).

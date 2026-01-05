@@ -3,6 +3,10 @@ Antiguo barrio de geishas, callejones, mezcla franco-japonesa.
 
 ---
 
+![Mapa del bloque 4-kagurazaka](/maps/4-kagurazaka.png)
+
+
+
 ### Entrada recomendada: Estación Iidabashi
 
 Iidabashi es ideal como punto de partida porque marca una transición natural:

@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 20-yokosuka](/maps/20-yokosuka.png)
+
+
+
 ### Concepto del lugar
 
 Puerto naval mezcla de historia Meiji y presencia estadounidense. Ofrece museos marítimos, paseos costeros y comida navy curry. Traslado 1 h desde Shinagawa.

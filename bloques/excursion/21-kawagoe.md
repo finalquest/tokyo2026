@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 21-kawagoe](/maps/21-kawagoe.png)
+
+
+
 ### Concepto del lugar
 
 “Little Edo” conserva almacenes kura, templos y calles dulces. Excelente excursión de medio día/ día completo a solo 60 min de Ikebukuro o Shinjuku.

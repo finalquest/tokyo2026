@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 13-daikanyama-nakameguro-meguro-river](/maps/13-daikanyama-nakameguro-meguro-river.png)
+
+
+
 ### Concepto del lugar
 
 Ruta de diseño contemporáneo, cafés con estilo y paseo ribereño. Ideal para días de clima agradable y para buscar postres cuidados.

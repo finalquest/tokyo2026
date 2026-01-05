@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 3-monzen-nakacho](/maps/3-monzen-nakacho.png)
+
+
+
 ### Concepto del lugar
 
 Este itinerario recorre el **shitamachi del este de Tokio**, el lado más ligado al viejo comercio, al transporte fluvial y a los templos de barrio.

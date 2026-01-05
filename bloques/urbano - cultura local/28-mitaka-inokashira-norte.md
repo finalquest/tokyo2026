@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 28-mitaka-inokashira-norte](/maps/28-mitaka-inokashira-norte.png)
+
+
+
 ### Concepto del lugar
 
 Versión tranquila del entorno de Inokashira, alejándote de Kichijōji para explorar barrios residenciales, cafés de autor y el Museo Ghibli si tenés ticket. Ritmo lento para quienes ya conocen Tokio central.

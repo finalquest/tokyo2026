@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 29-kugayama-zenpukuji-river](/maps/29-kugayama-zenpukuji-river.png)
+
+
+
 ### Concepto del lugar
 
 Caminata junto al río Zenpukuji, barrios residenciales reales y shotengai compactos. Perfecto para día tranquilo, observando vida cotidiana lejos de los turistas.

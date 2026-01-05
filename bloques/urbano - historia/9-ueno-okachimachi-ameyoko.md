@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 9-ueno-okachimachi-ameyoko](/maps/9-ueno-okachimachi-ameyoko.png)
+
+
+
 ### Concepto del lugar
 
 Combina la cara cultural de Ueno (museos, templos) con la energía postguerra de Ameya-Yokocho. Ideal para mezclar historia, compras callejeras y comida B-kyū.

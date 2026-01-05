@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 5-sugamo-komagome-rikugien](/maps/5-sugamo-komagome-rikugien.png)
+
+
+
 ### Concepto del lugar
 
 Día dedicado al “Harajuku de las abuelas”. Combina el shotengai devocional de Sugamo, templos tranquilos, y los jardines señoriales de Komagome. Ideal para ritmo lento, compras locales y un cierre en Rikugien con luces vespertinas si coincide temporada.

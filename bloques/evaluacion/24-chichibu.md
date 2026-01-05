@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 24-chichibu](/maps/24-chichibu.png)
+
+
+
 ### Concepto del lugar
 
 Valle montañoso con templos numerados, onsen y festivales nocturnos. Traslado ~2 h desde Ikebukuro (Seibu Limited Express). Excelente para naturaleza y rutas de goshuin.

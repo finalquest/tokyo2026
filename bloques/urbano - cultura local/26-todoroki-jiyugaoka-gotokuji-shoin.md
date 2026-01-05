@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 26-todoroki-jiyugaoka-gotokuji-shoin](/maps/26-todoroki-jiyugaoka-gotokuji-shoin.png)
+
+
+
 ### Concepto del lugar
 
 Día que mezcla naturaleza dentro de la ciudad, barrios residenciales con estilo europeo y templos felinos. Ritmo relajado, perfecto para descansar de zonas hiperurbanas.

@@ -3,6 +3,10 @@ Barrio histórico tipo Shōwa, templo Taishakuten y paseo ribereño.
 
 ---
 
+![Mapa del bloque 33-shibamata](/maps/33-shibamata.png)
+
+
+
 ### Concepto general del día
 
 Shibamata es uno de esos lugares donde Tokio baja dos marchas.

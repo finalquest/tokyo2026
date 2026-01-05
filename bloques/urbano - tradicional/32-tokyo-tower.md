@@ -3,6 +3,10 @@ Icono de posguerra, templo Tokugawa, cuna del ferrocarril, santuario en colina y
 
 ---
 
+![Mapa del bloque 32-tokyo-tower](/maps/32-tokyo-tower.png)
+
+
+
 ### Concepto del bloque
 
 Este día recorre una de las transiciones más claras del Tokio moderno:

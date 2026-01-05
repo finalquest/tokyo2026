@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 34-ginza-nihonbashi](/maps/34-ginza-nihonbashi.png)
+
+
+
 ### Concepto del lugar
 
 Este bloque cubre el Tokio mercantil que renació tras el gran terremoto de 1923 y que, aún hoy, mezcla tiendas centenarias, arquitectura Meiji/Art Déco y cafés de autor. Sirve para un día de paseos suaves entre shotengai premium, galerías y rooftops con vista.

@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 7-tokyo-station-nihonbashi-marunouchi](/maps/7-tokyo-station-nihonbashi-marunouchi.png)
+
+
+
 ### Concepto del lugar
 
 Bloque dedicado al corazón financiero y a la cara más institucional de Tokio. Combina arquitectura Meiji, avenidas corporativas, depachika históricos y museos compactos. Perfecto para un día lluvioso o cuando querés pasear bajo arcadas.

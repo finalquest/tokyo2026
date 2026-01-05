@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 2-nippori](/maps/2-nippori.png)
+
+
+
 ### Concepto del lugar
 
 Yanaka, Nippori y Sendagi forman parte del llamado **Yanesen** (Yanaka + Nezu + Sendagi), una de las pocas zonas de Tokio que:

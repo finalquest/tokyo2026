@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 16-ikebukuro-sugamo](/maps/16-ikebukuro-sugamo.png)
+
+
+
 ### Concepto del lugar
 
 Bloque centrado en Sugamo, usando Ikebukuro solo como punto de partida/logística. Ideal para reforzar el alma del “Harajuku de los abuelos” sin repetir todo el bloque 5.

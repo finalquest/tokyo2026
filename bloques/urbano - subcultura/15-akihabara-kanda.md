@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 15-akihabara-kanda](/maps/15-akihabara-kanda.png)
+
+
+
 ### Concepto del lugar
 
 Día clásico para sumergirse en electrónica retro, arcades y cafés temáticos, con final en el histórico barrio de Kanda para equilibrar. Ideal para compras frikis + templos guardianes.

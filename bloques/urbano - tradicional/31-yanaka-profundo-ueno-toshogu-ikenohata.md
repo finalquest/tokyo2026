@@ -3,6 +3,10 @@
 
 ---
 
+![Mapa del bloque 31-yanaka-profundo-ueno-toshogu-ikenohata](/maps/31-yanaka-profundo-ueno-toshogu-ikenohata.png)
+
+
+
 ### Concepto del lugar
 
 Extiende la experiencia de Yanaka hacia callejones menos transitados, templos escondidos y rincones del parque Ueno que casi nadie visita. Ideal para caza de goshuin y fotografía urbana tranquila.
