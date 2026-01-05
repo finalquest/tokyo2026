@@ -1,4 +1,4 @@
-# Itinerarios Tokio – primavera 2026
+# Itinerarios Tokio
 
 Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. Cada bloque describe un día completo en formato Markdown (concepto, estructura, paradas clave, consejos prácticos y notas de temporada) y luego se puede convertir en mapas KML/PNG listos para Google My Maps. Se puede extender añadiendo nuevos itinerarios o editando los existentes a medida que cambian intereses, temporadas o datos prácticos.
 
