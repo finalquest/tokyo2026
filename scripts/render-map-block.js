@@ -71,11 +71,7 @@ const center = bounds
   : fallbackCenter;
 
 const chunkSize = parseChunkSize(process.argv.slice(3));
-const googleApiKey = process.env.GOOGLE_MAPS_API_KEY?.trim();
-if (!googleApiKey) {
-  console.error("Falta GOOGLE_MAPS_API_KEY en el entorno (.env).");
-  process.exit(1);
-}
+const googleApiKey = process.env.GOOGLE_MAPS_API_KEY?.trim() || null;
 
 renderAllVariants().catch((err) => {
   console.error(`Fallo al renderizar ${blockId}:`, err);
@@ -131,18 +127,28 @@ async function renderVariant({
   bounds: variantBounds,
   center: variantCenter,
   legendTitle,
-  outputPath,
   apiKey,
+  outputPath,
 }) {
-  const html = buildHtml({
-    blockId: variantId,
-    points,
-    lines,
-    bounds: variantBounds,
-    center: variantCenter,
-    legendTitle,
-    apiKey,
-  });
+  const provider = apiKey ? "google" : "osm";
+  const html = provider === "google"
+    ? buildGoogleHtml({
+        blockId: variantId,
+        points,
+        lines,
+        bounds: variantBounds,
+        center: variantCenter,
+        legendTitle,
+        apiKey,
+      })
+    : buildOsmHtml({
+        blockId: variantId,
+        points,
+        lines,
+        bounds: variantBounds,
+        center: variantCenter,
+        legendTitle,
+      });
   const browser = await puppeteer.launch({
     defaultViewport: { width: 1280, height: 960, deviceScaleFactor: 2 },
   });
@@ -208,7 +214,7 @@ function extractCoordinates(geometry) {
   return [];
 }
 
-function buildHtml({
+function buildGoogleHtml({
   blockId: id,
   points,
   lines,
@@ -287,11 +293,60 @@ function buildHtml({
       const bounds = ${fitBounds};
 
       function initMap() {
+        const baseStyles = [
+          {
+            featureType: "poi",
+            elementType: "labels.icon",
+            stylers: [{ visibility: "on" }]
+          },
+          {
+            featureType: "poi",
+            elementType: "labels.text.fill",
+            stylers: [{ color: "#2c2c2c" }]
+          },
+          {
+            featureType: "poi.business",
+            elementType: "labels.icon",
+            stylers: [{ visibility: "on" }]
+          },
+          {
+            featureType: "poi.business",
+            elementType: "labels.text.fill",
+            stylers: [{ color: "#2a3f5f" }]
+          },
+          {
+            featureType: "poi.place_of_worship",
+            elementType: "labels.icon",
+            stylers: [{ visibility: "on" }]
+          },
+          {
+            featureType: "poi.place_of_worship",
+            elementType: "labels.text.fill",
+            stylers: [{ color: "#5b3f96" }]
+          },
+          {
+            featureType: "poi.attraction",
+            elementType: "labels.icon",
+            stylers: [{ visibility: "on" }]
+          },
+          {
+            featureType: "poi.attraction",
+            elementType: "labels.text.fill",
+            stylers: [{ color: "#134b70" }]
+          },
+          {
+            featureType: "transit",
+            elementType: "labels.icon",
+            stylers: [{ visibility: "on" }]
+          }
+        ];
+
         const map = new google.maps.Map(document.getElementById("map"), {
           center,
           zoom: 13,
           mapTypeId: "roadmap",
-          disableDefaultUI: false
+          disableDefaultUI: false,
+          styles: baseStyles
         });
 
         const boundsObj = new google.maps.LatLngBounds();
@@ -312,9 +367,9 @@ function buildHtml({
             const polyline = new google.maps.Polyline({
               path,
               geodesic: false,
-              strokeColor: "#f72585",
-              strokeOpacity: 0.9,
-              strokeWeight: 4
+              strokeColor: "#4285F4",
+              strokeOpacity: 1,
+              strokeWeight: 5
             });
             polyline.setMap(map);
           });
@@ -340,23 +395,13 @@ function buildHtml({
           const coords = feature.geometry.coordinates;
           if (!Array.isArray(coords) || coords.length < 2) return;
           const order = feature.properties?.order ?? "";
+          const rawName = feature.properties?.name || "";
+          const cleaned = rawName.replace(/^\\d+\\.\\s*/, "");
           const marker = new google.maps.Marker({
             position: { lat: coords[1], lng: coords[0] },
             map,
-            icon: {
-              path: google.maps.SymbolPath.CIRCLE,
-              scale: 10,
-              fillColor: "#003566",
-              fillOpacity: 1,
-              strokeColor: "#fbb317",
-              strokeWeight: 2
-            },
-            label: {
-              text: order.toString(),
-              color: "#ffffff",
-              fontSize: "11px",
-              fontWeight: "bold"
-            }
+            title: \`\${order}. \${cleaned}\`,
+            label: order.toString()
           });
           boundsObj.extend(marker.getPosition());
         });
@@ -378,6 +423,174 @@ function buildHtml({
 </html>`;
 }
 
+function buildOsmHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapCenter, legendTitle }) {
+  const maplibreVersion = "4.7.1";
+  const fitBounds = mapBounds ? JSON.stringify(mapBounds) : "null";
+  const rasterStyle = {
+    version: 8,
+    glyphs: "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
+    sources: {
+      "osm-tiles": {
+        type: "raster",
+        tiles: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
+        tileSize: 256,
+        attribution:
+          '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        maxzoom: 19,
+      },
+    },
+    layers: [
+      {
+        id: "osm-tiles",
+        type: "raster",
+        source: "osm-tiles",
+      },
+    ],
+  };
+  return `<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Mapa ${id}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@${maplibreVersion}/dist/maplibre-gl.css" />
+    <style>
+      html, body { margin: 0; padding: 0; height: 100%; }
+      #map { width: 100%; height: 100%; }
+      .maplibregl-ctrl-top-right { margin-top: 12px; margin-right: 12px; }
+      .pin {
+        display: inline-flex;
+        align-items: center;
+        font-family: "Open Sans", "Arial Unicode MS", sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+      }
+      .pin-dot {
+        width: 20px;
+        height: 20px;
+        border-radius: 999px;
+        background: #003566;
+        border: 2px solid #fbb317;
+        color: #ffffff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 11px;
+        line-height: 1;
+        box-shadow: 0 0 4px rgba(0,0,0,0.35);
+      }
+      #legend {
+        position: absolute;
+        top: 16px;
+        left: 16px;
+        background: rgba(255,255,255,0.95);
+        padding: 12px 16px;
+        border-radius: 8px;
+        max-width: 320px;
+        font-family: "Open Sans", "Arial Unicode MS", sans-serif;
+        font-size: 12px;
+        line-height: 1.4;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      }
+      #legend h2 {
+        font-size: 14px;
+        margin: 0 0 6px;
+      }
+      #legend ul {
+        margin: 0;
+        padding-left: 18px;
+      }
+      #legend li {
+        margin-bottom: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="legend"></div>
+    <script src="https://unpkg.com/maplibre-gl@${maplibreVersion}/dist/maplibre-gl.js"></script>
+    <script>
+      const pointData = ${JSON.stringify(points)};
+      const lineData = ${JSON.stringify(lines)};
+      const center = ${JSON.stringify(mapCenter)};
+      const bounds = ${fitBounds};
+      const baseStyle = ${JSON.stringify(rasterStyle)};
+
+      const map = new maplibregl.Map({
+        container: "map",
+        style: baseStyle,
+        center,
+        zoom: 12
+      });
+      map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), "top-right");
+
+      map.on("load", () => {
+        if (lineData.features.length) {
+          map.addSource("routes", { type: "geojson", data: lineData });
+          map.addLayer({
+            id: "route-lines",
+            type: "line",
+            source: "routes",
+            paint: {
+              "line-color": "#f72585",
+              "line-width": 4,
+              "line-opacity": 0.85
+            }
+          });
+        }
+
+        const legend = document.getElementById("legend");
+        legend.innerHTML = "<h2>${legendTitle || "Paradas"}</h2>";
+        const listEl = document.createElement("ul");
+        pointData.features
+          .slice()
+          .sort((a, b) => (a.properties.order || 0) - (b.properties.order || 0))
+          .forEach((feature) => {
+            const listItem = document.createElement("li");
+            const rawName = feature.properties.name || "";
+            const cleaned = rawName.replace(/^\\d+\\.\\s*/, "");
+            listItem.textContent = \`\${feature.properties.order}. \${cleaned}\`;
+            listEl.appendChild(listItem);
+          });
+        legend.appendChild(listEl);
+
+        pointData.features.forEach((feature) => {
+          if (!feature.geometry || feature.geometry.type !== "Point") return;
+          const coords = feature.geometry.coordinates;
+          if (!Array.isArray(coords) || coords.length < 2) return;
+          const order = feature.properties?.order ?? "";
+
+          const markerEl = document.createElement("div");
+          markerEl.className = "pin";
+
+          const dotEl = document.createElement("div");
+          dotEl.className = "pin-dot";
+          dotEl.textContent = order.toString();
+
+          markerEl.appendChild(dotEl);
+
+          new maplibregl.Marker({ element: markerEl, anchor: "left" })
+            .setLngLat(coords)
+            .addTo(map);
+        });
+
+        if (bounds) {
+          map.fitBounds(bounds, { padding: 80, linear: true, maxZoom: 16 });
+        } else {
+          map.setCenter(center);
+          map.setZoom(12);
+        }
+
+        map.once("idle", () => {
+          setTimeout(() => {
+            window.renderDone = true;
+          }, 500);
+        });
+      });
+    </script>
+  </body>
+</html>`;
+}
 function createPointChunks(features, size) {
   const chunks = [];
   for (let i = 0; i < features.length; i += size) {
