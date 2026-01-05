@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bloques en evaluación / opcionales futuros
+---
+
 # Bloques en evaluación / opcionales futuros  
 ## Itinerario: Chichibu
 

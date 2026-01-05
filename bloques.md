@@ -1,3 +1,8 @@
+---
+layout: default
+title: Índice completo de bloques – Itinerario modular Tokio + Excursiones
+---
+
 # Índice completo de bloques – Itinerario modular Tokio + Excursiones
 
 Este índice contiene *todos* los bloques propuestos para tu viaje.  

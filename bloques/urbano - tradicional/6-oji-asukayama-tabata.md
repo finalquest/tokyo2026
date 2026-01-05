@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bloques urbanos – Tradicional / Shitamachi
+---
+
 # Bloques urbanos – Tradicional / Shitamachi  
 ## Itinerario: Ōji + Asukayama Park + Tabata
 

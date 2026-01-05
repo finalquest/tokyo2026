@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tokyo Tower + Zōjō-ji + Shimbashi + Atago-jinja + Shiodome
+---
+
 ## Tokyo Tower + Zōjō-ji + Shimbashi + Atago-jinja + Shiodome
 Icono de posguerra, templo Tokugawa, cuna del ferrocarril, santuario en colina y distrito mediático moderno.
 

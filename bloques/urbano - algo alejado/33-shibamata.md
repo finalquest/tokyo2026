@@ -1,3 +1,8 @@
+---
+layout: default
+title: Itinerario: Shibamata (Taishakuten + Tora-san + río Edo)
+---
+
 ## Itinerario: Shibamata (Taishakuten + Tora-san + río Edo)  
 Barrio histórico tipo Shōwa, templo Taishakuten y paseo ribereño.
 

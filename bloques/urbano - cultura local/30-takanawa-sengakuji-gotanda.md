@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bloques urbanos – Cultura local / relajados
+---
+
 # Bloques urbanos – Cultura local / relajados  
 ## Itinerario: Takanawa + Sengakuji + Gotanda
 

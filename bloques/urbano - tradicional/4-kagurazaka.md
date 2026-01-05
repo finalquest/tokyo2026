@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kagurazaka + Ichigaya
+---
+
 # Kagurazaka + Ichigaya
 Antiguo barrio de geishas, callejones, mezcla franco-japonesa.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bloques de excursión (fuera de Tokio)
+---
+
 # Bloques de excursión (fuera de Tokio)  
 ## Itinerario: Hakone
 

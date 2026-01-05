@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bloques urbanos – Historia / ciudad
+---
+
 # Bloques urbanos – Historia / ciudad  
 ## Itinerario: Yasukuni + Kōkyo Gaien + Museos Imperiales
 

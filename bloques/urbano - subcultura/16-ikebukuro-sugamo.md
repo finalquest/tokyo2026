@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bloques urbanos – Subcultura / Retro / Pop
+---
+
 # Bloques urbanos – Subcultura / Retro / Pop  
 ## Itinerario: Sugamo con base Ikebukuro
 
