@@ -19,7 +19,7 @@ Generar capturas PNG homogéneas de cada bloque utilizando únicamente los `.kml
 (MapLibre GL se usará vía CDN en el HTML, por lo que no se instala como dependencia local.)
 
 ## Scripts previstos
-- `scripts/render-map-block.js`: recibe `<block-id>` como argumento, realiza todo el pipeline para un bloque y guarda el PNG en `maps/`.
+- `scripts/render-map-block.js`: recibe `<block-id>` como argumento, realiza todo el pipeline para un bloque y guarda el PNG en `maps/`. Acepta `--chunk-size=<n>` para generar imágenes de detalle por tramos.
 - (Opcional) `scripts/render-maps.js`: recorre todos los `.kml` y llama internamente al renderizador por bloque.
 - `package.json`: agregar scripts `render:block` y `render:all` para facilitar la ejecución.
 

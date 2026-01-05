@@ -69,17 +69,70 @@ const center = bounds
   ? [(bounds[0][0] + bounds[1][0]) / 2, (bounds[0][1] + bounds[1][1]) / 2]
   : fallbackCenter;
 
-const html = buildHtml({
-  blockId,
-  points: pointsCollection,
-  lines: linesCollection,
-  bounds,
-  center,
+const chunkSize = parseChunkSize(process.argv.slice(3));
+
+renderAllVariants().catch((err) => {
+  console.error(`Fallo al renderizar ${blockId}:`, err);
+  process.exit(1);
 });
 
-const outputPngPath = path.join(rootDir, "maps", `${blockId}.png`);
+async function renderAllVariants() {
+  await renderVariant({
+    blockId,
+    points: pointsCollection,
+    lines: linesCollection,
+    bounds,
+    center,
+    legendTitle: "Paradas",
+    outputPath: path.join(rootDir, "maps", `${blockId}.png`),
+  });
 
-async function renderScreenshot() {
+  if (chunkSize && chunkSize > 0) {
+    const chunks = createPointChunks(orderedPoints, chunkSize);
+    for (let i = 0; i < chunks.length; i++) {
+      const chunkPoints = chunks[i];
+      const chunkCollection = { type: "FeatureCollection", features: chunkPoints };
+      const chunkBounds = calculateBounds(chunkPoints);
+      const chunkCenter = chunkBounds
+        ? [(chunkBounds[0][0] + chunkBounds[1][0]) / 2, (chunkBounds[0][1] + chunkBounds[1][1]) / 2]
+        : center;
+      const chunkLines = filterLinesForBounds(lineFeatures, chunkBounds, 0.002);
+      const linesCollectionChunk = { type: "FeatureCollection", features: chunkLines };
+      const outputPath = path.join(
+        rootDir,
+        "maps",
+        `${blockId}-detalle-${String(i + 1).padStart(2, "0")}.png`,
+      );
+      await renderVariant({
+        blockId: `${blockId} detalle ${i + 1}`,
+        points: chunkCollection,
+        lines: linesCollectionChunk,
+        bounds: chunkBounds,
+        center: chunkCenter,
+        legendTitle: `Detalle tramo ${i + 1}`,
+        outputPath,
+      });
+    }
+  }
+}
+
+async function renderVariant({
+  blockId: variantId,
+  points,
+  lines,
+  bounds: variantBounds,
+  center: variantCenter,
+  legendTitle,
+  outputPath,
+}) {
+  const html = buildHtml({
+    blockId: variantId,
+    points,
+    lines,
+    bounds: variantBounds,
+    center: variantCenter,
+    legendTitle,
+  });
   const browser = await puppeteer.launch({
     defaultViewport: { width: 1280, height: 960, deviceScaleFactor: 2 },
   });
@@ -88,20 +141,15 @@ async function renderScreenshot() {
     await page.setContent(html, { waitUntil: "networkidle0" });
     await page.waitForFunction("window.renderDone === true", { timeout: 20000 });
     await page.screenshot({
-      path: outputPngPath,
+      path: outputPath,
       type: "png",
       omitBackground: false,
     });
-    console.log(`PNG generado: ${outputPngPath}`);
+    console.log(`PNG generado: ${outputPath}`);
   } finally {
     await browser.close();
   }
 }
-
-renderScreenshot().catch((err) => {
-  console.error(`Fallo al renderizar ${blockId}:`, err);
-  process.exit(1);
-});
 
 function calculateBounds(allFeatures) {
   let minLng = Infinity;
@@ -150,7 +198,7 @@ function extractCoordinates(geometry) {
   return [];
 }
 
-function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapCenter }) {
+function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapCenter, legendTitle }) {
   const maplibreVersion = "4.7.1";
   const fitBounds = mapBounds ? JSON.stringify(mapBounds) : "null";
   const rasterStyle = {
@@ -267,7 +315,7 @@ function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapC
         }
 
         const legend = document.getElementById("legend");
-        legend.innerHTML = "<h2>Paradas</h2>";
+        legend.innerHTML = "<h2>${legendTitle || "Paradas"}</h2>";
         const listEl = document.createElement("ul");
         pointData.features
           .slice()
@@ -317,4 +365,39 @@ function buildHtml({ blockId: id, points, lines, bounds: mapBounds, center: mapC
     </script>
   </body>
 </html>`;
+}
+
+function createPointChunks(features, size) {
+  const chunks = [];
+  for (let i = 0; i < features.length; i += size) {
+    chunks.push(features.slice(i, i + size));
+  }
+  return chunks;
+}
+
+function filterLinesForBounds(lines, bounds, padding = 0.002) {
+  if (!bounds) return lines;
+  const [[minLng, minLat], [maxLng, maxLat]] = bounds;
+  const padded = [
+    [minLng - padding, minLat - padding],
+    [maxLng + padding, maxLat + padding],
+  ];
+  return lines.filter((feature) => {
+    const coords = extractCoordinates(feature.geometry);
+    return coords.some(([lng, lat]) => {
+      return lng >= padded[0][0] && lng <= padded[1][0] && lat >= padded[0][1] && lat <= padded[1][1];
+    });
+  });
+}
+
+function parseChunkSize(args) {
+  for (const arg of args) {
+    if (arg.startsWith("--chunk-size=")) {
+      const value = parseInt(arg.split("=")[1], 10);
+      if (!Number.isNaN(value) && value > 0) {
+        return value;
+      }
+    }
+  }
+  return null;
 }
