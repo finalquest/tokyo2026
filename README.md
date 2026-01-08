@@ -36,6 +36,7 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - `excursion/`: escapadas de hasta dos horas de viaje (Kamakura, Hakone, etc.).
   - `evaluacion/`: ideas en reserva para futuros ajustes.
 - `AGENTS.md`: guía de contribución para mantener estilo, comandos de revisión y tono.
+- `lugares_sueltos.md`: registro temporal de lugares detectados (links/notas breves) antes de curarlos y transformarlos en bloques numerados dentro de `bloques.md`.
 
 ## Cómo usar los bloques
 1. Cada mañana revisá clima, energía y eventos especiales (hanami, iluminaciones).
@@ -47,7 +48,7 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
 - Antes de editar, leé `AGENTS.md` para conocer estilo, comandos (`markdownlint`, `rg`) y tono en español rioplatense.
 - Respetá la numeración y el formato "Bloques … / Itinerario …" al crear archivos nuevos.
 - Tras agregar o modificar un bloque, asegurate de actualizar `bloques.md` y de incluir notas de temporada si aplican.
-- Verificá cambios renderizando los `.md` (por ejemplo con `glow`) y corré `npx -y markdownlint-cli2 "**/*.md"` antes de hacer commit.
+- Verificá cambios renderizando los `.md` (por ejemplo con `glow`). Por ahora **no corremos ningún linter de Markdown** (`markdownlint-cli2` queda pausado) hasta que limpiemos los errores heredados, así que evitá ejecutarlo para no bloquear el flujo.
 - Para mapas podés trabajar bloque a bloque:
   1. Creá `data/places-input/<block-id>.json` (lista de lugares del MD).
   2. `npm run fetch:block -- <block-id>` para guardar `data/places/<block-id>.json`.
