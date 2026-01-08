@@ -154,8 +154,22 @@ async function renderVariant({
   });
   try {
     const page = await browser.newPage();
+    page.on("console", (msg) => {
+      const type = msg.type().toUpperCase();
+      console.log(`[${variantId}] ${type}: ${msg.text()}`);
+    });
+    page.on("pageerror", (err) => {
+      console.error(`[${variantId}] Page error:`, err);
+    });
     await page.setContent(html, { waitUntil: "networkidle0" });
-    await page.waitForFunction("window.renderDone === true", { timeout: 20000 });
+    try {
+      await page.waitForFunction("window.renderDone === true", { timeout: 20000 });
+    } catch (err) {
+      console.warn(
+        `Render de ${variantId} no confirmó finalización a tiempo (${err.message}). Se fuerza captura tras espera fija.`,
+      );
+      await page.waitForTimeout(2000);
+    }
     await page.screenshot({
       path: outputPath,
       type: "png",
@@ -285,7 +299,7 @@ function buildGoogleHtml({
   <body>
     <div id="map"></div>
     <div id="legend"></div>
-    <script async defer src="https://maps.googleapis.com../../maps/api/js?key=${apiKey}&language=en&callback=initMap&v=weekly"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=${apiKey}&language=en&callback=initMap&v=weekly"></script>
     <script>
       const pointData = ${JSON.stringify(points)};
       const lineData = ${JSON.stringify(lines)};

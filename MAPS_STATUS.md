@@ -64,15 +64,15 @@
 - **21-kawagoe**  
   - `data/places-input/21-kawagoe.json` cubre estación, loop bus, Kurazukuri, dulces, Kitain, Hikawa y la vuelta por Shingashi + Kurari.  
   - Corridos `npm run fetch:block -- 21-kawagoe`, `npm run routes:block -- 21-kawagoe`, `npm run build:map -- 21-kawagoe` → existen `data/places/21-kawagoe.json`, `data/routes/21-kawagoe.json` y `maps/21-kawagoe.kml`.
-- **22-sawara**  
-  - `data/places-input/22-sawara.json` incluye estación, canal histórico, casa Inoh Tadataka, sake Tokun y el desvío a Katori Jingū.  
-  - Corridos `npm run fetch:block -- 22-sawara`, `npm run routes:block -- 22-sawara`, `npm run build:map -- 22-sawara` → existen `data/places/22-sawara.json`, `data/routes/22-sawara.json` y `maps/22-sawara.kml`.
-- **23-fujinomiya**  
-  - `data/places-input/23-fujinomiya.json` cubre estación, Sengen Taisha, centro patrimonial, sake, cascadas Shiraito/Otodome y regreso gastronómico.  
-  - Corridos `npm run fetch:block -- 23-fujinomiya`, `npm run routes:block -- 23-fujinomiya`, `npm run build:map -- 23-fujinomiya` → existen `data/places/23-fujinomiya.json`, `data/routes/23-fujinomiya.json` y `maps/23-fujinomiya.kml`.
-- **24-chichibu**  
-  - `data/places-input/24-chichibu.json` recorre estación, Chichibu Shrine, varios templos Kannon cercanos, Hitsujiyama Park y el onsen/compras finales.  
-  - Corridos `npm run fetch:block -- 24-chichibu`, `npm run routes:block -- 24-chichibu`, `npm run build:map -- 24-chichibu` → existen `data/places/24-chichibu.json`, `data/routes/24-chichibu.json` y `maps/24-chichibu.kml`.
+- **23-sawara**  
+  - `data/places-input/23-sawara.json` incluye estación, canal histórico, casa Inoh Tadataka, sake Tokun y el desvío a Katori Jingū.  
+  - Corridos `npm run fetch:block -- 23-sawara`, `npm run routes:block -- 23-sawara`, `npm run build:map -- 23-sawara` → existen `data/places/23-sawara.json`, `data/routes/23-sawara.json` y `maps/23-sawara.kml`.
+- **24-fujinomiya**  
+  - `data/places-input/24-fujinomiya.json` cubre estación, Sengen Taisha, centro patrimonial, sake, cascadas Shiraito/Otodome y regreso gastronómico.  
+  - Corridos `npm run fetch:block -- 24-fujinomiya`, `npm run routes:block -- 24-fujinomiya`, `npm run build:map -- 24-fujinomiya` → existen `data/places/24-fujinomiya.json`, `data/routes/24-fujinomiya.json` y `maps/24-fujinomiya.kml`.
+- **37-chichibu**  
+  - `data/places-input/37-chichibu.json` recorre estación, Chichibu Shrine, varios templos Kannon cercanos, Hitsujiyama Park y el onsen/compras finales.  
+  - Corridos `npm run fetch:block -- 37-chichibu`, `npm run routes:block -- 37-chichibu`, `npm run build:map -- 37-chichibu` → existen `data/places/37-chichibu.json`, `data/routes/37-chichibu.json` y `maps/37-chichibu.kml`.
 - **25-kanda-jimbocho-tokyo-station**  
   - `data/places-input/25-kanda-jimbocho-tokyo-station.json` une Kanda Station/Myōjin, librerías Jimbochō, cafés/curries, Glitch/Awajichō y cierre en Maach Ecute + Gransta.  
   - Corridos `npm run fetch:block -- 25-kanda-jimbocho-tokyo-station`, `npm run routes:block -- 25-kanda-jimbocho-tokyo-station`, `npm run build:map -- 25-kanda-jimbocho-tokyo-station` → existen `data/places/25-kanda-jimbocho-tokyo-station.json`, `data/routes/25-kanda-jimbocho-tokyo-station.json` y `maps/25-kanda-jimbocho-tokyo-station.kml`.

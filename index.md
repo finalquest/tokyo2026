@@ -8,15 +8,16 @@ author: FinalQuest
 
 ## Índice rápido por categoría
 - **evaluacion**
-  - [22 Sawara](/bloques/evaluacion/22-sawara.md)
-  - [23 Fujinomiya](/bloques/evaluacion/23-fujinomiya.md)
-  - [24 Chichibu](/bloques/evaluacion/24-chichibu.md)
+  - [23 Sawara](/bloques/evaluacion/23-sawara.md)
+  - [24 Fujinomiya](/bloques/evaluacion/24-fujinomiya.md)
+  - [37 Chichibu](/bloques/evaluacion/37-chichibu.md)
 - **excursion**
   - [17 Kamakura Enoshima](/bloques/excursion/17-kamakura-enoshima.md)
   - [18 Nikko Utsunomiya](/bloques/excursion/18-nikko-utsunomiya.md)
   - [19 Hakone](/bloques/excursion/19-hakone.md)
   - [20 Yokosuka](/bloques/excursion/20-yokosuka.md)
   - [21 Kawagoe](/bloques/excursion/21-kawagoe.md)
+  - [22 Narita Naritasan Omotesando](/bloques/excursion/22-narita-naritasan-omotesando.md)
 - **urbano-algo-alejado**
   - [33 Shibamata](/bloques/urbano-algo-alejado/33-shibamata.md)
 - **urbano-cultura-local**
