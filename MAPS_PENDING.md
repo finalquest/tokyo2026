@@ -15,9 +15,9 @@ Lista de itinerarios que todavía no tienen `places/routes/map` generados. El or
 - [x] **19-hakone** – Hakone  
 - [x] **20-yokosuka** – Yokosuka  
 - [x] **21-kawagoe** – Kawagoe  
-- [x] **22-sawara** – Sawara  
-- [x] **23-fujinomiya** – Fujinomiya  
-- [x] **24-chichibu** – Chichibu  
+- [ ] **22-narita-naritasan-omotesando** – Narita + Naritasan Shinshō-ji + Omotesandō  
+- [x] **23-sawara** – Sawara  
+- [x] **24-fujinomiya** – Fujinomiya  
 - [x] **25-kanda-jimbocho-tokyo-station** – Kanda + Jimbochō + Tokyo Station  
 - [x] **26-todoroki-jiyugaoka-gotokuji-shoin** – Todoroki + Jiyūgaoka + Gotokuji + Shōin-jinja  
 - [x] **27-chofu-jindaiji-botanical** – Chōfu + Jindaiji + Jindai Botanical Garden  
@@ -30,5 +30,6 @@ Lista de itinerarios que todavía no tienen `places/routes/map` generados. El or
 - [x] **34-ginza-nihonbashi** – Ginza + Nihonbashi (opcional)  
 - [x] **35-yasukuni-kokyo-gaien-museos-imperiales** – Yasukuni + Kōkyo Gaien + museos imperiales  
 - [x] **36-akabane-higashi-jujo** – Akabane + Higashi-Jūjō
+- [x] **37-chichibu** – Chichibu  
 
 > Nota: los bloques **1-8** ya cuentan con `places/routes/map` y por eso no aparecen acá. Vamos tachando estas entradas a medida que avancemos para tener un checklist único.

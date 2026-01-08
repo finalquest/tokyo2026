@@ -131,18 +131,21 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 21. **Kawagoe** ✅  
     “Little Edo”, zona de almacenes kura, dulces tradicionales.
 
+22. **Narita + Naritasan Shinshō-ji + Omotesandō** ✅  
+    Templo Naritasan, calle histórica con ryōtei de anguila, parque con estanques y opción Sawara.
+
 ---
 
 ## ⚪ Bloques en evaluación / opcionales futuros
 (no quedaron afuera, solo en reserva)
 
-22. **Sawara**  
+23. **Sawara**  
     Distrito histórico Edo junto al río Ono.
 
-23. **Fujinomiya**  
+24. **Fujinomiya**  
     Base del Monte Fuji, santuario Sengen Taisha, cascadas.
 
-24. **Chichibu**  
+37. **Chichibu**  
     Ruta de templos, onsen, naturaleza (más largo, revisar tiempos).
 
 ---
