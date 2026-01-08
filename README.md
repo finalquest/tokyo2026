@@ -36,6 +36,7 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - `excursion/`: escapadas de hasta dos horas de viaje (Kamakura, Hakone, etc.).
   - `evaluacion/`: ideas en reserva para futuros ajustes.
 - `AGENTS.md`: guía de contribución para mantener estilo, comandos de revisión y tono.
+- `lugares_sueltos.md`: registro temporal de lugares detectados (links/notas breves) antes de curarlos y transformarlos en bloques numerados dentro de `bloques.md`.
 
 ## Cómo usar los bloques
 1. Cada mañana revisá clima, energía y eventos especiales (hanami, iluminaciones).
