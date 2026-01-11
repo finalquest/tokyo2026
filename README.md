@@ -62,6 +62,18 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
 - **Detalles por tramo**: sumá `--chunk-size=N` para generar además `maps/<block-id>-detalle-XX.png`, cada uno centrado en N paradas consecutivas (útil para itinerarios largos).
 - **Mapas por lotes**: corré el script en un loop (`for id in ...; do npm run render:block -- $id; done`) para regenerar todos los bloques. Cada PNG queda en `maps/` (3‑6 MB aprox.).
 
+### Script rápido para procesar un bloque completo
+- `./script.sh <block-id> [args extra para render:block]` encapsula el flujo `fetch:block → routes:block → build:map → render:block`.
+- El script verifica que exista `data/places-input/<block-id>.json`, que `GOOGLE_MAPS_API_KEY` esté exportada y luego ejecuta cada `npm run` mostrando el bloque en curso.
+- Podés pasarle cualquier flag adicional para `npm run render:block` después del `block-id` (ej: `./script.sh 38-saitama-rail-museum --chunk-size=6`).
+- Si en tu entorno no podés instalar librerías del sistema en `/usr/lib`, el script detecta automáticamente `~/.local/puppeteer-libs` y arma el `LD_LIBRARY_PATH` con ese stash para que Puppeteer levante Chromium sin errores.
+
+### Dependencias nativas de Puppeteer (sin sudo)
+- Puppeteer/Chromium requiere varias bibliotecas del sistema (`libnss3`, `libxrandr2`, `libasound2`, etc.). Si manejás el entorno con `sudo`, basta con `sudo apt-get install -y libnss3 libatk1.0-0 ...`.
+- Para bots/entornos sin privilegios creamos `scripts/setup-puppeteer-libs.sh`, que usa `apt-get download` + `dpkg-deb -x` y deposita todas las librerías necesarias en `~/.local/puppeteer-libs`.
+- Solo corré `./scripts/setup-puppeteer-libs.sh` una vez (se puede repetir para actualizar versiones); después `script.sh` configurará `LD_LIBRARY_PATH` automáticamente antes de llamar a `npm run render:block`.
+- Si necesitás usar Puppeteer manualmente, exportá `LD_LIBRARY_PATH=${HOME}/.local/puppeteer-libs/lib/x86_64-linux-gnu:${HOME}/.local/puppeteer-libs/lib:${HOME}/.local/puppeteer-libs/usr/lib/x86_64-linux-gnu:${HOME}/.local/puppeteer-libs/usr/lib:$LD_LIBRARY_PATH`.
+
 ## Índice rápido por categoría
 - **evaluacion**
   - [23 Sawara](/bloques/evaluacion/23-sawara.md)
