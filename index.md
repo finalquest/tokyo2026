@@ -18,6 +18,7 @@ author: FinalQuest
   - [20 Yokosuka](/bloques/excursion/20-yokosuka.md)
   - [21 Kawagoe](/bloques/excursion/21-kawagoe.md)
   - [22 Narita Naritasan Omotesando](/bloques/excursion/22-narita-naritasan-omotesando.md)
+  - [38 Saitama Rail Museum](/bloques/excursion/38-saitama-rail-museum.md)
 - **urbano-algo-alejado**
   - [33 Shibamata](/bloques/urbano-algo-alejado/33-shibamata.md)
 - **urbano-cultura-local**
