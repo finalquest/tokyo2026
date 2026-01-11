@@ -134,6 +134,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 22. **Narita + Naritasan Shinshō-ji + Omotesandō** ✅  
     Templo Naritasan, calle histórica con ryōtei de anguila, parque con estanques y opción Sawara.
 
+38. **Saitama (Railway Museum + Omiya Bonsai)** ✅  
+    Museo ferroviario interactivo, Hikawa-jinja, parque lleno de sakura y villas de bonsái para un día distinto cerca de Tokio.
+
 ---
 
 ## ⚪ Bloques en evaluación / opcionales futuros
