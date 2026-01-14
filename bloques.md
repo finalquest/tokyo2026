@@ -99,6 +99,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 36. **Akabane + Higashi-Jūjō** ✅  
     Barrios obreros, templos discretos, compuertas del Arakawa, shotengai local.
 
+38. **Toyosu Market + Tsukiji Outer Market**  
+    Contraste Toyosu/Tsukiji, miradores modernos, puestos tradicionales y santuario Namiyoke protectores del gremio.
+
 ---
 
 ## 🔴 Bloques urbanos – Subcultura / Retro / Pop
