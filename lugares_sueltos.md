@@ -11,8 +11,8 @@ Repositorio auxiliar para tirar ideas rápidas de spots que todavía no tienen b
 
 ## Lista en progreso
 
-- **Tsukiji Outer Market + Namiyoke Inari** (Tsukiji) — https://www.tsukiji.or.jp/ combina mercado madrugador con santuario protector de los gremios pesqueros y explica la transición a Toyosu.
-- **Toyosu Market + pasarela Shijo-mae** (Toyosu/Ariake) — https://www.toyosu-market.or.jp/ permite observar subastas de atún y enganchar el nuevo circuito gastronómico frente a la bahía.
+- ~~**Tsukiji Outer Market + Namiyoke Inari** (Tsukiji) — https://www.tsukiji.or.jp/ combina mercado madrugador con santuario protector de los gremios pesqueros y explica la transición a Toyosu.~~ → quedó cubierto en el bloque 38 (Toyosu + Tsukiji).
+- ~~**Toyosu Market + pasarela Shijo-mae** (Toyosu/Ariake) — https://www.toyosu-market.or.jp/ permite observar subastas de atún y enganchar el nuevo circuito gastronómico frente a la bahía.~~ → ver bloque 38 para itinerario completo.
 - **Tsukishima Nishinaka-dori (Monja Street)** (Tsukishima) — https://visit-chuo.jp/monja/ calle histórica llena de monjayaki, útil para mostrar costumbres del antiguo barrio isleño.
 - **Ryogoku Kokugikan + Museo Edo-Tokyo** (Ryogoku) — https://www.sumo.or.jp/Kokugikan/ y https://www.edo-tokyo-museum.or.jp/ arman combo sumo + historia urbana ideal para temporada de torneos.
 - **Kiyosumi-Shirakawa cafés + Museum of Contemporary Art Tokyo** (Koto) — https://www.mot-art-museum.jp/ mezcla hub cafetero de tostadores independientes con arte contemporáneo al este del Sumida.
