@@ -102,6 +102,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 38. **Toyosu Market + Tsukiji Outer Market**  
     Contraste Toyosu/Tsukiji, miradores modernos, puestos tradicionales y santuario Namiyoke protectores del gremio.
 
+39. **Odaiba + bahía de Tokio**  
+    Paseo costero moderno, miradores, centros comerciales temáticos y skyline de la bahía.
+
 ---
 
 ## 🔴 Bloques urbanos – Subcultura / Retro / Pop
@@ -139,6 +142,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 
 38. **Saitama (Railway Museum + Omiya Bonsai)** ✅  
     Museo ferroviario interactivo, Hikawa-jinja, parque lleno de sakura y villas de bonsái para un día distinto cerca de Tokio.
+
+40. **Yokohama (Chinatown + Yamashita + Minato Mirai)**  
+    Barrio chino más grande de Japón, paseo costero y frente moderno con rascacielos.
 
 ---
 
