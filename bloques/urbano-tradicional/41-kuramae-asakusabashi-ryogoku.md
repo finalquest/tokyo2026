@@ -8,7 +8,7 @@ title: Bloques urbanos – Tradicional / Shitamachi
 
 ---
 
-![Mapa del bloque 39-kuramae-asakusabashi-ryogoku](../../maps/39-kuramae-asakusabashi-ryogoku.png)
+![Mapa del bloque 41-kuramae-asakusabashi-ryogoku](../../maps/41-kuramae-asakusabashi-ryogoku.png)
 
 
 

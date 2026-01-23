@@ -42,7 +42,7 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 33. **Shibamata (Taishakuten + Tora-san + río Edo)** ✅  
     Barrio histórico tipo Shōwa, templo Taishakuten, casa de Tora-san y ambiente tradicional lejos del centro.
 
-39. **Kuramae + Asakusabashi + Ryōgoku**  
+41. **Kuramae + Asakusabashi + Ryōgoku**  
     Artesanos, mayoristas, ribera del Sumida y barrio del sumo; transición entre Asakusa y el este.
 
 ---
@@ -102,10 +102,10 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 36. **Akabane + Higashi-Jūjō** ✅  
     Barrios obreros, templos discretos, compuertas del Arakawa, shotengai local.
 
-38. **Toyosu Market + Tsukiji Outer Market**  
+42. **Toyosu Market + Tsukiji Outer Market**  
     Contraste Toyosu/Tsukiji, miradores modernos, puestos tradicionales y santuario Namiyoke protectores del gremio.
 
-39. **Odaiba + bahía de Tokio**  
+43. **Odaiba + bahía de Tokio**  
     Paseo costero moderno, miradores, centros comerciales temáticos y skyline de la bahía.
 
 ---

@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 39-odaiba-bahia](../../maps/39-odaiba-bahia.png)
+![Mapa del bloque 43-odaiba-bahia](../../maps/43-odaiba-bahia.png)
 
 
 

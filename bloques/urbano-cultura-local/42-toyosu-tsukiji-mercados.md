@@ -8,7 +8,7 @@ title: Bloques urbanos – Cultura local / relajados
 
 ---
 
-![Mapa del bloque 38-toyosu-tsukiji-mercados](../../maps/38-toyosu-tsukiji-mercados.png)
+![Mapa del bloque 42-toyosu-tsukiji-mercados](../../maps/42-toyosu-tsukiji-mercados.png)
 
 
 
@@ -91,4 +91,3 @@ Es un bucle corto, pensado para hacer Toyosu temprano (7:30-9:30) y pasar a Tsuk
 - Toyosu temprano (7:30-9:30), café rápido en la pasarela y traslado directo a Tsukiji (10:00-13:00).  
 - Si llueve, mantenete más tiempo en Toyosu (pasillos cubiertos) y dejá Tsukiji para el mediodía cuando baja el tránsito de camiones.  
 - Podés recortar: solo Toyosu si querés modernidad o solo Tsukiji si preferís calle; pero la gracia del bloque es ver ambos para entender la transición.
-
