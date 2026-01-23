@@ -146,6 +146,8 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 38. **Saitama (Railway Museum + Omiya Bonsai)** ✅  
     Museo ferroviario interactivo, Hikawa-jinja, parque lleno de sakura y villas de bonsái para un día distinto cerca de Tokio.
 
+39. **Kawaguchiko + miradores del Fuji** ✅  
+    Lago Kawaguchiko, miradores y vistas del Monte Fuji (si el clima acompaña).
 40. **Yokohama (Chinatown + Yamashita + Minato Mirai)**  
     Barrio chino más grande de Japón, paseo costero y frente moderno con rascacielos.
 
