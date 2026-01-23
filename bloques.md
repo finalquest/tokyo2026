@@ -42,6 +42,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 33. **Shibamata (Taishakuten + Tora-san + río Edo)** ✅  
     Barrio histórico tipo Shōwa, templo Taishakuten, casa de Tora-san y ambiente tradicional lejos del centro.
 
+39. **Kuramae + Asakusabashi + Ryōgoku**  
+    Artesanos, mayoristas, ribera del Sumida y barrio del sumo; transición entre Asakusa y el este.
+
 ---
 
 ## 🔵 Bloques urbanos – Historia / ciudad

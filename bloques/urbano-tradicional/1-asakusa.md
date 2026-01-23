@@ -180,6 +180,10 @@ Sirve para ver el choque entre la torre y el shitamachi sin necesidad de hacer c
 **Imado Shrine**  
 Santuario asociado al origen del Sensō-ji y vinculado con los maneki-neko.
 
+**Si hay tiempo y ganas de seguir en modo shitamachi**  
+Podés sumar el bloque dedicado **Kuramae + Asakusabashi + Ryōgoku** (artesanos, mayoristas y barrio del sumo).  
+Ver: [Kuramae + Asakusabashi + Ryōgoku](39-kuramae-asakusabashi-ryogoku.md)
+
 ---
 
 ### Primavera (finales de marzo a mediados de abril)
