@@ -42,6 +42,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 33. **Shibamata (Taishakuten + Tora-san + río Edo)** ✅  
     Barrio histórico tipo Shōwa, templo Taishakuten, casa de Tora-san y ambiente tradicional lejos del centro.
 
+39. **Kuramae + Asakusabashi + Ryōgoku**  
+    Artesanos, mayoristas, ribera del Sumida y barrio del sumo; transición entre Asakusa y el este.
+
 ---
 
 ## 🔵 Bloques urbanos – Historia / ciudad
@@ -102,6 +105,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 38. **Toyosu Market + Tsukiji Outer Market**  
     Contraste Toyosu/Tsukiji, miradores modernos, puestos tradicionales y santuario Namiyoke protectores del gremio.
 
+39. **Odaiba + bahía de Tokio**  
+    Paseo costero moderno, miradores, centros comerciales temáticos y skyline de la bahía.
+
 ---
 
 ## 🔴 Bloques urbanos – Subcultura / Retro / Pop
@@ -142,6 +148,8 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 
 39. **Kawaguchiko + miradores del Fuji** ✅  
     Lago Kawaguchiko, miradores y vistas del Monte Fuji (si el clima acompaña).
+40. **Yokohama (Chinatown + Yamashita + Minato Mirai)**  
+    Barrio chino más grande de Japón, paseo costero y frente moderno con rascacielos.
 
 ---
 

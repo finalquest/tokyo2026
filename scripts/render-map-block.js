@@ -151,6 +151,12 @@ async function renderVariant({
       });
   const browser = await puppeteer.launch({
     defaultViewport: { width: 1280, height: 960, deviceScaleFactor: 2 },
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-gpu",
+    ],
   });
   try {
     const page = await browser.newPage();

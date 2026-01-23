@@ -1,0 +1,13 @@
+[
+  { "name": "Yokohama Station", "hint": "Nishi Ward, Yokohama, Kanagawa" },
+  { "name": "Motomachi-Chukagai Station", "hint": "Minatomirai Line, Naka Ward, Yokohama" },
+  { "name": "Yokohama Chinatown", "hint": "Naka Ward, Yokohama" },
+  { "name": "Kanteibyo Temple", "hint": "Yokohama Chinatown, Naka Ward, Yokohama" },
+  { "name": "Yamashita Park", "hint": "Naka Ward, Yokohama" },
+  { "name": "Osanbashi Pier", "hint": "Naka Ward, Yokohama" },
+  { "name": "Motomachi Shopping Street", "hint": "Motomachi, Naka Ward, Yokohama" },
+  { "name": "Harbor View Park", "hint": "Yamate, Naka Ward, Yokohama" },
+  { "name": "Yokohama Red Brick Warehouse", "hint": "Shinko, Naka Ward, Yokohama" },
+  { "name": "Yokohama Landmark Tower", "hint": "Minato Mirai, Nishi Ward, Yokohama" },
+  { "name": "Queen's Square Yokohama", "hint": "Minato Mirai, Nishi Ward, Yokohama" }
+]
