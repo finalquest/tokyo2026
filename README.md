@@ -17,17 +17,11 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
 ## Flujo de trabajo sugerido
 1. **Crear/editar itinerarios en Markdown**: cada bloque vive en `bloques/<carpeta>/<NN-nombre>.md`.
 2. **Cargar lugares del bloque** en `data/places-input/<block-id>.json`. Hoy ese paso se hizo manualmente/externamente (apoyándonos en un LLM para extraer la lista desde el Markdown), pero cualquier método es válido siempre que termine generando el JSON con `{ "name": "...", "hint": "..." }` siguiendo el orden del itinerario.
-3. **Resolver coordenadas y rutas** con:
+3. **Generar mapas (KML + PNG) con el script único**:
    ```bash
-   npm run fetch:block -- <block-id>
-   npm run routes:block -- <block-id>
-   npm run build:map -- <block-id>      # genera maps/<block-id>.kml
+   ./script.sh <block-id> [--chunk-size=N]
    ```
-4. **Renderizar mapas listos para My Maps**:
-   ```bash
-   npm run render:block -- <block-id> [--chunk-size=N]
-   ```
-   El comando produce `maps/<block-id>.png` (más los detalles si pedís `--chunk-size`).
+   Este repo **solo admite** la generación de mapas mediante `script.sh`. No uses los `npm run fetch:block/routes:block/build:map/render:block` por separado.
 
 ## Estructura
 - `bloques.md`: índice maestro con las categorías (urbano tradicional, historia, cultura local, subcultura, excursiones y evaluación). Incluye recordatorio de la ventana del viaje.
@@ -49,21 +43,19 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
 - Respetá la numeración y el formato "Bloques … / Itinerario …" al crear archivos nuevos.
 - Tras agregar o modificar un bloque, asegurate de actualizar `bloques.md` y de incluir notas de temporada si aplican.
 - Verificá cambios renderizando los `.md` (por ejemplo con `glow`). Por ahora **no corremos ningún linter de Markdown** (`markdownlint-cli2` queda pausado) hasta que limpiemos los errores heredados, así que evitá ejecutarlo para no bloquear el flujo.
-- Para mapas podés trabajar bloque a bloque:
+- Para mapas trabajá bloque a bloque **solo con** `script.sh`:
   1. Creá `data/places-input/<block-id>.json` (lista de lugares del MD).
-  2. `npm run fetch:block -- <block-id>` para guardar `data/places/<block-id>.json`.
-  3. `npm run routes:block -- <block-id>` para guardar `data/routes/<block-id>.json`.
-  4. `npm run build:map -- <block-id>` para generar `maps/<block-id>.kml`.
-  Si querés regenerar todo de una vez, mantené `data/places-input.json` con todos los bloques y usá `./run-fetch.sh`, `./run-directions.sh`, `npm run build:maps`.
+  2. `./script.sh <block-id> [--chunk-size=N]` para generar `data/places/`, `data/routes/`, `maps/<block-id>.kml` y `maps/<block-id>.png` en un solo paso.
+  No se acepta el flujo manual con `npm run fetch:block/routes:block/build:map/render:block` ni los scripts por lote (`run-fetch.sh`, `run-directions.sh`, `build:maps`).
 
 ### Render de mapas (PNG listos para My Maps)
 - **Prerequisitos**: `npm install` ya trae Puppeteer y conversores. Para tener etiquetas de Google en inglés/español, agregá `GOOGLE_MAPS_API_KEY=<tu_key>` al `.env`. Si no hay key, el render usa OpenStreetMap por defecto.
-- **Panorámico por bloque**: `npm run render:block -- <block-id>` crea `maps/<block-id>.png` con la ruta, pines numerados y lista lateral.
-- **Detalles por tramo**: sumá `--chunk-size=N` para generar además `maps/<block-id>-detalle-XX.png`, cada uno centrado en N paradas consecutivas (útil para itinerarios largos).
-- **Mapas por lotes**: corré el script en un loop (`for id in ...; do npm run render:block -- $id; done`) para regenerar todos los bloques. Cada PNG queda en `maps/` (3‑6 MB aprox.).
+- **Panorámico por bloque**: `./script.sh <block-id>` crea `maps/<block-id>.png` con la ruta, pines numerados y lista lateral.
+- **Detalles por tramo**: sumá `--chunk-size=N` a `./script.sh` para generar además `maps/<block-id>-detalle-XX.png`, cada uno centrado en N paradas consecutivas (útil para itinerarios largos).
+- **Mapas por lotes**: si necesitás lote, armá un loop pero siempre invocando `./script.sh` (ej: `for id in ...; do ./script.sh "$id"; done`). Cada PNG queda en `maps/` (3‑6 MB aprox.).
 
 ### Script rápido para procesar un bloque completo
-- `./script.sh <block-id> [args extra para render:block]` encapsula el flujo `fetch:block → routes:block → build:map → render:block`.
+- `./script.sh <block-id> [args extra para render:block]` **es el único flujo permitido** para generar mapas y encapsula `fetch:block → routes:block → build:map → render:block`.
 - El script verifica que exista `data/places-input/<block-id>.json`, que `GOOGLE_MAPS_API_KEY` esté exportada y luego ejecuta cada `npm run` mostrando el bloque en curso.
 - Podés pasarle cualquier flag adicional para `npm run render:block` después del `block-id` (ej: `./script.sh 38-saitama-rail-museum --chunk-size=6`).
 - Si en tu entorno no podés instalar librerías del sistema en `/usr/lib`, el script detecta automáticamente `~/.local/puppeteer-libs` y arma el `LD_LIBRARY_PATH` con ese stash para que Puppeteer levante Chromium sin errores.
