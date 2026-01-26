@@ -150,6 +150,8 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
     Lago Kawaguchiko, miradores y vistas del Monte Fuji (si el clima acompaña).
 40. **Yokohama (Chinatown + Yamashita + Minato Mirai)**  
     Barrio chino más grande de Japón, paseo costero y frente moderno con rascacielos.
+44. **Atami (cafés Shōwa + onsen + costa)**  
+    Escapada retro de posguerra, kissaten clásicos, bahía costera y opción de onsen de día.
 
 ---
 
