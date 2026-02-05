@@ -284,10 +284,13 @@ function buildGoogleHtml({
         padding: 12px 16px;
         border-radius: 8px;
         max-width: 320px;
+        max-height: 80%;
+        overflow: auto;
         font-family: "Open Sans", "Arial Unicode MS", sans-serif;
         font-size: 12px;
         line-height: 1.4;
         box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        z-index: 2;
       }
       #legend h2 {
         font-size: 14px;
@@ -507,10 +510,13 @@ function buildOsmHtml({ blockId: id, points, lines, bounds: mapBounds, center: m
         padding: 12px 16px;
         border-radius: 8px;
         max-width: 320px;
+        max-height: 80%;
+        overflow: auto;
         font-family: "Open Sans", "Arial Unicode MS", sans-serif;
         font-size: 12px;
         line-height: 1.4;
         box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        z-index: 2;
       }
       #legend h2 {
         font-size: 14px;

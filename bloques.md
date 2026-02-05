@@ -45,6 +45,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 41. **Kuramae + Asakusabashi + Ryōgoku**  
     Artesanos, mayoristas, ribera del Sumida y barrio del sumo; transición entre Asakusa y el este.
 
+46. **Zoshigaya + Waseda + Kagurazaka**  
+    Cementerio histórico, templos discretos, pendientes barriales y cierre en Kagurazaka.
+
 ---
 
 ## 🔵 Bloques urbanos – Historia / ciudad
@@ -107,6 +110,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 
 43. **Odaiba + bahía de Tokio**  
     Paseo costero moderno, miradores, centros comerciales temáticos y skyline de la bahía.
+
+45. **Omotesandō + Aoyama + Harajuku (opcional)**  
+    Eje de diseño contemporáneo, arquitectura boutique, calles laterales y opción Meiji Jingū.
 
 ---
 
