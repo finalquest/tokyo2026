@@ -32,7 +32,7 @@ Su esencia es:
 
 ## Estructura general del recorrido
 
-**Llegada a Shibamata → Tora-san → Taishakuten → Calle vieja → Jardín → Río Edo**
+**Llegada a Shibamata → Tora-san → Taishakuten → Calle vieja → Jardín → Almuerzo → Barrio → Río Edo**
 
 Todo se hace caminando, sin apuro.
 
@@ -81,7 +81,7 @@ Aunque no hayas visto las películas, sirve para entender:
 Desde la estación caminás derecho por la **calle comercial antigua**.
 
 Es una de las mejores calles tradicionales conservadas de Tokio porque:
-- no fue “remasterizada”,
+- no fue "remasterizada",
 - no está tomada por franquicias,
 - sigue funcionando como hace décadas.
 
@@ -137,9 +137,27 @@ Muchos lo omiten, pero es una parte muy valiosa del día.
 
 ---
 
-## 6. Barrio residencial de Shibamata
+## 6. Almuerzo: Yabu Soba (藪蕎麦)
 
-Después del templo:
+A dos cuadras del templo, este es el lugar para almorzar.
+
+Yabu Sobe es una casa de soba histórica que mantiene:
+- fideos hechos a mano,
+- ambiente de madera tradicional,
+- carta clásica: tempura, kakiage, oroshisoba.
+
+No es restaurante de moda ni para turistas masivos:
+es donde come la gente del barrio desde hace décadas.
+
+**Consejo:** pedí el menú del mediodía con tempura de verduras. Es abundante, económico y representa bien la cocina casera de la zona.
+
+Ideal para recargar antes de seguir caminando hacia el río.
+
+---
+
+## 7. Barrio residencial de Shibamata
+
+Después del almuerzo:
 
 vale mucho la pena **salir del circuito obvio** y dar una vuelta por las calles residenciales.
 
@@ -152,7 +170,7 @@ Es muy similar en espíritu a Yanaka o Mukōjima, pero aún más periférico.
 
 ---
 
-## 7. Paseo por el río Edo
+## 8. Paseo por el río Edo
 
 Shibamata también es un barrio fluvial.
 
@@ -163,7 +181,7 @@ Caminando unos minutos llegás al borde del **río Edo**, con:
 - zona de picnic local,
 - gente paseando perros, bicicleta, etc.
 
-No es “bonito” en sentido turístico:  
+No es "bonito" en sentido turístico:  
 es **Tokio respirando**.
 
 Ideal para:
@@ -204,7 +222,7 @@ Se puede hacer:
 
 ## Espíritu del día
 
-Más que “ver cosas”, este es un día para:
+Más que "ver cosas", este es un día para:
 
 - sentir un Tokio que ya no se fabrica,
 - ver cómo un barrio se volvió símbolo,
