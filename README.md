@@ -80,6 +80,15 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - [20 Yokosuka](/bloques/excursion/20-yokosuka.md)
   - [21 Kawagoe](/bloques/excursion/21-kawagoe.md)
   - [22 Narita Naritasan Omotesando](/bloques/excursion/22-narita-naritasan-omotesando.md)
+  - [38 Saitama Rail Museum](/bloques/excursion/38-saitama-rail-museum.md)
+  - [39 Kawaguchiko Fuji](/bloques/excursion/39-kawaguchiko-fuji.md)
+  - [40 Yokohama Chinatown Minato Mirai](/bloques/excursion/40-yokohama-chinatown-minato-mirai.md)
+  - [44 Atami](/bloques/excursion/44-atami.md)
+- **hiking**
+  - [50 Old Tokaido Hakone](/bloques/hiking/50-old-tokaido-hakone.md)
+  - [51 Tanzawa](/bloques/hiking/51-tanzawa.md)
+  - [52 Okutama](/bloques/hiking/52-okutama.md)
+  - [53 Takao](/bloques/hiking/53-takao.md)
 - **urbano-algo-alejado**
   - [33 Shibamata](/bloques/urbano-algo-alejado/33-shibamata.md)
 - **urbano-cultura-local**
@@ -93,6 +102,9 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - [29 Kugayama Zenpukuji River](/bloques/urbano-cultura-local/29-kugayama-zenpukuji-river.md)
   - [30 Takanawa Sengakuji Gotanda](/bloques/urbano-cultura-local/30-takanawa-sengakuji-gotanda.md)
   - [36 Akabane Higashijujo](/bloques/urbano-cultura-local/36-akabane-higashijujo.md)
+  - [42 Toyosu Tsukiji Mercados](/bloques/urbano-cultura-local/42-toyosu-tsukiji-mercados.md)
+  - [43 Odaiba Bahia](/bloques/urbano-cultura-local/43-odaiba-bahia.md)
+  - [45 Omotesando Aoyama Harajuku](/bloques/urbano-cultura-local/45-omotesando-aoyama-harajuku.md)
 - **urbano-historia**
   - [25 Kanda Jimbocho Tokyo Station](/bloques/urbano-historia/25-kanda-jimbocho-tokyo-station.md)
   - [34 Ginza Nihonbashi](/bloques/urbano-historia/34-ginza-nihonbashi.md)
@@ -113,3 +125,5 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - [4 Kagurazaka](/bloques/urbano-tradicional/4-kagurazaka.md)
   - [5 Sugamo Komagome Rikugien](/bloques/urbano-tradicional/5-sugamo-komagome-rikugien.md)
   - [6 Oji Asukayama Tabata](/bloques/urbano-tradicional/6-oji-asukayama-tabata.md)
+  - [41 Kuramae Asakusabashi Ryogoku](/bloques/urbano-tradicional/41-kuramae-asakusabashi-ryogoku.md)
+  - [46 Zoshigaya Waseda Kagurazaka](/bloques/urbano-tradicional/46-zoshigaya-waseda-kagurazaka.md)

@@ -22,6 +22,11 @@ author: FinalQuest
   - [39 Kawaguchiko Fuji](/bloques/excursion/39-kawaguchiko-fuji.md)
   - [40 Yokohama Chinatown Minato Mirai](/bloques/excursion/40-yokohama-chinatown-minato-mirai.md)
   - [44 Atami](/bloques/excursion/44-atami.md)
+- **hiking**
+  - [50 Old Tokaido Hakone](/bloques/hiking/50-old-tokaido-hakone.md)
+  - [51 Tanzawa](/bloques/hiking/51-tanzawa.md)
+  - [52 Okutama](/bloques/hiking/52-okutama.md)
+  - [53 Takao](/bloques/hiking/53-takao.md)
 - **urbano-algo-alejado**
   - [33 Shibamata](/bloques/urbano-algo-alejado/33-shibamata.md)
 - **urbano-cultura-local**
