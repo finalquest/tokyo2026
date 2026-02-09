@@ -1,0 +1,9 @@
+[
+  { "name": "Takao-san-guchi", "hint": "Estación Keio, punto de inicio del sendero" },
+  { "name": "Takao-san", "hint": "Monte sagrado con templo Yakuoin, sendero Omotesando de 800 años" },
+  { "name": "Yakuoin", "hint": "Templo budista en la ladera de Takao-san dedicado a tengu" },
+  { "name": "Jinba-san", "hint": "Cumbre con esculturas de caballos de piedra y mirador 360°" },
+  { "name": "Kobotoke Pass", "hint": "Punto más alto de la antigua ruta comercial con restos de empedrado original" },
+  { "name": "Kobotoke", "hint": "Pueblo final de la ruta, acceso a bus a Hachioji" },
+  { "name": "Keio Takaosan Onsen Gokurakuyu", "hint": "Onsen moderno a 5 min de Takao-san-guchi" }
+]

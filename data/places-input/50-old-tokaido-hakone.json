@@ -1,0 +1,10 @@
+[
+  { "name": "Moto-Hakone", "hint": "Embarcadero del lago Ashi, punto de inicio del sendero" },
+  { "name": "Ishidatami", "hint": "Tramos originales de adoquinado de piedra del período Edo" },
+  { "name": "Sugi-namiki", "hint": "Alineación de cedros japoneses de 400 años plantados por el clan Tokugawa" },
+  { "name": "Hakone Checkpoint", "hint": "Reconstrucción del puesto de control Tokugawa con vistas al lago" },
+  { "name": "Hakone Shrine", "hint": "Torii flotante en el lago Ashi, acceso por sendero de musgo entre cedros" },
+  { "name": "Lago Ashi", "hint": "Lago volcánico en el centro de Hakone" },
+  { "name": "Hakone-Yumoto", "hint": "Estación final del sendero, acceso a onsen" },
+  { "name": "Hakone Yuryo", "hint": "Onsen con lockers y toallas a 5 min de Hakone-Yumoto" }
+]
