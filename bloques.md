@@ -129,6 +129,22 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 
 ---
 
+## 🥾 Bloques de hiking
+
+50. **Old Tokaido Hakone (Hakone Hachiri)** ✅  
+    Tramo preservado del antiguo camino Tokaido entre Hakone-Yumoto y Mishima, 10km con postes de piedra históricos, cedros de 400 años y barreras de Hakone.
+
+51. **Koshu Kaido Hachioji (Nakagawa-Sasazuka)** ✅  
+    Tramo histórico del Koshu Kaido (antiguo camino a Kofu) entre Nakagawa y Sasazuka, pasando por el templo Kongoji y antiguas casas de posta.
+
+52. **Okutama (Tama River Trail)** ✅  
+    Sendero fluvial de 12km en el extremo oeste de Tokio, bosques de cedros, puentes colgantes y valle montañoso accesible en tren.
+
+53. **Takao-san (Monte Takao)** ✅  
+    Ascenso de 599m en el oeste de Tokio, senderos Omotesando (#1) o Inariyama (#6), templo Yakuoin con cultura tengu, opciones con funicular/teleférico y famoso por momiji en otoño.
+
+---
+
 ## ⚫ Bloques de excursión (fuera de Tokio)
 
 17. **Kamakura + Enoshima** ✅  
