@@ -29,7 +29,7 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - `urbano - .../`: días dentro de Tokio separados por temática.
   - `excursion/`: escapadas de hasta dos horas de viaje (Kamakura, Hakone, etc.).
   - `evaluacion/`: ideas en reserva para futuros ajustes.
-- `AGENTS.md`: guía de contribución para mantener estilo, comandos de revisión y tono.
+- `AGENTS.md`: guía de contribución para mantener estilo, comandos de revisión y tono. **Incluye sección sobre trabajo con límite de tools** (patrón checklist + iteración).
 - `lugares_sueltos.md`: registro temporal de lugares detectados (links/notas breves) antes de curarlos y transformarlos en bloques numerados dentro de `bloques.md`.
 
 ## Cómo usar los bloques
@@ -39,7 +39,9 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
 4. Podés mezclar o cortar bloques según ganas; el objetivo es tener más ideas de las que vas a usar.
 
 ## Contribuir
-- Antes de editar, leé `AGENTS.md` para conocer estilo, comandos (`markdownlint`, `rg`) y tono en español rioplatense.
+
+> **Nota para agents**: Antes de editar, leé `AGENTS.md` para conocer estilo, comandos (`markdownlint`, `rg`) y tono en español rioplatense. **Importante**: si la tarea requiere múltiples archivos o pasos (ej: crear itinerario + actualizar índice), usá el **patrón checklist + iteración** documentado en `AGENTS.md` para evitar exceder el límite de tools.
+
 - Respetá la numeración y el formato "Bloques … / Itinerario …" al crear archivos nuevos.
 - Tras agregar o modificar un bloque, asegurate de actualizar `bloques.md` y de incluir notas de temporada si aplican.
 - Verificá cambios renderizando los `.md` (por ejemplo con `glow`). Por ahora **no corremos ningún linter de Markdown** (`markdownlint-cli2` queda pausado) hasta que limpiemos los errores heredados, así que evitá ejecutarlo para no bloquear el flujo.
