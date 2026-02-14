@@ -89,6 +89,7 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - [51 Tanzawa](/bloques/hiking/51-tanzawa.md)
   - [52 Okutama](/bloques/hiking/52-okutama.md)
   - [53 Takao](/bloques/hiking/53-takao.md)
+  - [54 Monte Oyama](/bloques/hiking/54-oyama.md)
 - **urbano-algo-alejado**
   - [33 Shibamata](/bloques/urbano-algo-alejado/33-shibamata.md)
 - **urbano-cultura-local**
@@ -106,12 +107,12 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - [43 Odaiba Bahia](/bloques/urbano-cultura-local/43-odaiba-bahia.md)
   - [45 Omotesando Aoyama Harajuku](/bloques/urbano-cultura-local/45-omotesando-aoyama-harajuku.md)
 - **urbano-historia**
-  - [25 Kanda Jimbocho Tokyo Station](/bloques/urbano-historia/25-kanda-jimbocho-tokyo-station.md)
-  - [34 Ginza Nihonbashi](/bloques/urbano-historia/34-ginza-nihonbashi.md)
-  - [35 Yasukuni Kokyo Gaien](/bloques/urbano-historia/35-yasukuni-kokyo-gaien.md)
   - [7 Tokyo Station Nihonbashi Marunouchi](/bloques/urbano-historia/7-tokyo-station-nihonbashi-marunouchi.md)
   - [8 Chiyoda Jimbocho Chidorigafuchi](/bloques/urbano-historia/8-chiyoda-jimbocho-chidorigafuchi.md)
   - [9 Ueno Okachimachi Ameyoko](/bloques/urbano-historia/9-ueno-okachimachi-ameyoko.md)
+  - [25 Kanda Jimbocho Tokyo Station](/bloques/urbano-historia/25-kanda-jimbocho-tokyo-station.md)
+  - [34 Ginza Nihonbashi](/bloques/urbano-historia/34-ginza-nihonbashi.md)
+  - [35 Yasukuni Kokyo Gaien](/bloques/urbano-historia/35-yasukuni-kokyo-gaien.md)
 - **urbano-subcultura**
   - [14 Koenji Nakano](/bloques/urbano-subcultura/14-koenji-nakano.md)
   - [15 Akihabara Kanda](/bloques/urbano-subcultura/15-akihabara-kanda.md)
@@ -120,10 +121,10 @@ Repositorio con bloques modulares para planear un viaje en Tokio y alrededores. 
   - [1 Asakusa](/bloques/urbano-tradicional/1-asakusa.md)
   - [2 Nippori](/bloques/urbano-tradicional/2-nippori.md)
   - [3 Monzen Nakacho](/bloques/urbano-tradicional/3-monzen-nakacho.md)
-  - [31 Yanaka Profundo Ueno Toshogu Ikenohata](/bloques/urbano-tradicional/31-yanaka-profundo-ueno-toshogu-ikenohata.md)
-  - [32 Tokyo Tower](/bloques/urbano-tradicional/32-tokyo-tower.md)
   - [4 Kagurazaka](/bloques/urbano-tradicional/4-kagurazaka.md)
   - [5 Sugamo Komagome Rikugien](/bloques/urbano-tradicional/5-sugamo-komagome-rikugien.md)
   - [6 Oji Asukayama Tabata](/bloques/urbano-tradicional/6-oji-asukayama-tabata.md)
+  - [31 Yanaka Profundo Ueno Toshogu Ikenohata](/bloques/urbano-tradicional/31-yanaka-profundo-ueno-toshogu-ikenohata.md)
+  - [32 Tokyo Tower](/bloques/urbano-tradicional/32-tokyo-tower.md)
   - [41 Kuramae Asakusabashi Ryogoku](/bloques/urbano-tradicional/41-kuramae-asakusabashi-ryogoku.md)
   - [46 Zoshigaya Waseda Kagurazaka](/bloques/urbano-tradicional/46-zoshigaya-waseda-kagurazaka.md)

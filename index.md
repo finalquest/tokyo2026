@@ -27,6 +27,7 @@ author: FinalQuest
   - [51 Tanzawa](/bloques/hiking/51-tanzawa.md)
   - [52 Okutama](/bloques/hiking/52-okutama.md)
   - [53 Takao](/bloques/hiking/53-takao.md)
+  - [54 Monte Oyama](/bloques/hiking/54-oyama.md)
 - **urbano-algo-alejado**
   - [33 Shibamata](/bloques/urbano-algo-alejado/33-shibamata.md)
 - **urbano-cultura-local**
