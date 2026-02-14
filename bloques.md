@@ -143,6 +143,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 53. **Takao-san (Monte Takao)** ✅  
     Ascenso de 599m en el oeste de Tokio, senderos Omotesando (#1) o Inariyama (#6), templo Yakuoin con cultura tengu, opciones con funicular/teleférico y famoso por momiji en otoño.
 
+54. **Monte Ōyama (Afuri-jinja)** ✅  
+    Ascenso de 1,252m en Isehara (Kanagawa), santuario Afuri dividido en inferior y superior, sendero de peregrinación Ōyama-dōri, tofu tradicional y vistas al Fuji y bahía de Tokio.
+
 ---
 
 ## ⚫ Bloques de excursión (fuera de Tokio)
@@ -166,7 +169,7 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
     Templo Naritasan, calle histórica con ryōtei de anguila, parque con estanques y opción Sawara.
 
 38. **Saitama (Railway Museum + Omiya Bonsai)** ✅  
-    Museo ferroviario interactivo, Hikawa-jinja, parque lleno de sakura y villas de bonsái para un día distinto cerca de Tokio.
+    Museo ferroviario interactivo, Hikawa-jinja, parque lleno de sakora y villas de bonsái para un día distinto cerca de Tokio.
 
 39. **Kawaguchiko + miradores del Fuji** ✅  
     Lago Kawaguchiko, miradores y vistas del Monte Fuji (si el clima acompaña).
