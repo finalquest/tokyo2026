@@ -20,15 +20,37 @@ Kawaguchiko es la base más directa para ver el Monte Fuji desde el norte. Combi
 
 ### Estructura general del recorrido
 
-**Shinjuku/Tokyo → Kawaguchiko Station → (opción A) Shimoyoshida/Chureito → costa norte (Oishi Park) → Kachi Kachi Ropeway → paseo por el lago → regreso**
+**Itabashi/Ikebukuro/Shinjuku → Kawaguchiko Station → (opción A) Shimoyoshida/Chureito → costa norte (Oishi Park) → Kachi Kachi Ropeway → paseo por el lago → regreso**
 
 ---
 
 ### Transporte y llegada
 
-- Tren directo limitado o bus de autopista desde Shinjuku; reservá asiento si vas en fin de semana.  
-- Si entrás por tren, podés bajar en **Shimoyoshida** para la pagoda y luego seguir a **Kawaguchiko Station**.  
-- Desde la estación salen buses locales que recorren el lago; si preferís caminar, priorizá tramos cortos y guarda energía para los miradores.
+#### Desde Itabashi: opciones recomendadas
+
+| Opción | Ruta | Tiempo | Precio (aprox) | Notas |
+|--------|------|--------|----------------|-------|
+| **A - Bus directo (recomendado)** | Itabashi → Ikebukuro (JR Saikyo, 5 min) → bus Highway Express a Kawaguchiko | ~1h 50min | ¥2,200-2,500 | Más cómodo, asiento reservado, primera salida ~6:30am desde Ikebukuro |
+| **B - Tren directo** | Itabashi → Shinjuku (JR Saikyo/Toei Mita, 12 min) → Limited Express Kaiji a Kawaguchiko | ~2h 10min | ¥4,100 (con JR Pass cubierto hasta Otsuki, luego ¥1,210) | Sin transbordos de bus, panorámico |
+| **C - Económica** | Itabashi → Shinjuku → JR Chuo Line rápido a Otsuki → Fujikyuko Line a Kawaguchiko | ~2h 45min | ¥2,520 | Más barata pero requiere transbordo en Otsuki |
+
+#### Horarios de salida desde Itabashi (ejemplo)
+
+- **Para llegar a Kawaguchiko ~8:30am:** salir de Itabashi ~6:15am (opción A) o ~6:00am (opción C)
+- **Para llegar ~10:00am:** salir ~7:30am (cualquier opción)
+- **Último retorno recomendado:** bus 18:30-19:00 desde Kawaguchiko, llega Ikebukuro/Shinjuku ~20:30-21:00
+
+#### Reservas
+
+- **Buses Highway Express:** comprá online en advance o en la misma mañana si hay lugar; fines de semana reservá con 1-2 días de anticipación  
+- **Limited Express Kaiji:** JR Pass cubre todo el trayecto; sin JR Pass, comprá ticket en máquinas verdes de Shinjuku  
+- **Fujikyuko Line:** no necesita reserva, pago con IC o boleto en Otsuki
+
+#### Desde la estación Kawaguchiko
+
+- Buses locales circulares (Red Line/Green Line) recorren los puntos turísticos del lago; pase de 2 días (~¥1,500) o boleto simple (~¥150-300 por tramo)  
+- Alquiler de bicicletas eléctricas (~¥1,500-2,000/día) para recorrer la costa norte a tu ritmo  
+- Si preferís caminar, la zona céntrica (Kachi Kachi Ropeway, Oishi Park) está en radio de 20-30 min a pie
 
 ### Chureito y Fujiyoshida (opcional)
 
