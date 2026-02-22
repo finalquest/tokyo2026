@@ -30,9 +30,46 @@ Tokyo/Shinagawa → Atami Station → Heiwadori Shotengai → cafés Shōwa → 
 
 ---
 
-### Pasajes y transporte local
+### Cómo llegar a Atami desde Tokio
 
-- Desde Tokyo o Shinagawa podés ir por **Tōkaidō Shinkansen** (rápido) o **JR Tōkaidō Line** (más económico, más lento).  
+Tenés tres opciones principales, ordenadas por velocidad/precio:
+
+#### 1. Shinkansen Kodama (rápido, más caro)
+- **Desde:** Tokyo Station o Shinagawa Station  
+- **Duración:** ~35–45 min hasta Atami  
+- **Precio:** ~¥3,500–4,000 (no incluye JR Pass básico, necesitás pase Premium o pagar suplemento)  
+- **Pros:** rápido, sin reserva previa (podés subir con JR Pass Premium o comprar ticket en máquina)  
+- **Contras:** más caro, paisaje menos interesante que el tren de costa
+
+#### 2. Limited Express Odoriko (balance velocidad/precio, **requiere reserva**)
+- **Desde:** Tokyo Station, Shinjuku Station o Shinagawa Station  
+- **Duración:** ~1h 20min hasta Atami  
+- **Precio:** ~¥2,500–3,000 + tarifa de asiento reservado (~¥1,000)  
+- **Pros:** recorre la costa del Pacífico (vistas al mar), más rápido que el local, cómodo  
+- **Contras:** **requiere reserva de asiento obligatoria**
+
+**Cómo reservar el Odoriko:**
+- **Máquinas JR (Midori no Madoguchi):** tocá "Reserved Seat Ticket", elegí "Limited Express", fecha y horario. Las máquinas tienen idioma inglés. Pagás con efectivo o tarjeta IC (Suica/Pasmo).  
+- **Ventanilla:** acercate a "Midori no Madoguchi" en cualquier estación JR grande, decí "Atami made Odoriko yoyaku onegaishimasu". Te piden fecha, horario aproximado y número de pasajeros.  
+- **JR East App (previo a viaje):** si tenés JR Pass regional o querés comprar online, la app "JR EAST Train Reservation" permite reservar con tarjeta de crédito. Después retirás el ticket en máquina con QR.  
+- **Consejo:** reservá con 1–2 días de anticipación en fines de semana; entre semana suele haber lugares el mismo día.
+
+#### 3. JR Tōkaidō Line (local, más barato, sin reserva)
+- **Desde:** Tokyo Station, Shinagawa, Kawasaki, Yokohama  
+- **Duración:** ~1h 40min–2h hasta Atami (depende del servicio, algunos requieren transbordo en Odawara o Kozu)  
+- **Precio:** ~¥1,500 (cubierto por JR Pass estándar, no necesita reserva)  
+- **Pros:** más económico, flexible (subís cuando querés), cubierto por JR Pass básico  
+- **Contras:** más lento, puede estar parado en hora pico, sin garantía de asiento
+
+**Recomendación práctica:**
+- Si tenés JR Pass estándar → Tōkaidō Line local o Shinkansen Kodama (si tenés suplemento)  
+- Si querés equilibrar tiempo y plata → Odoriko reservando con anticipación  
+- Si salís tarde o volvés tarde → chequeá últimos horarios, el Odoriko deja de circular ~21:00 hs
+
+---
+
+### Transporte local en Atami y Mishima
+
 - Atami es compacta: el centro se recorre caminando; para subir al castillo o al ropeway conviene bus local o taxi corto.  
 - **Mishima**: tren local por línea Itō o Tōkaidō (15–20 min desde Atami). El santuario queda a 10–15 min caminando desde la estación.  
 - Si volvés tarde, chequeá horarios del último tren con tiempo (varían según el servicio).
