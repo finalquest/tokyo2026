@@ -14,27 +14,27 @@ title: Bloques urbanos – Cultura local / relajados
 
 ### Concepto del día
 
-Día local profundo en Itabashi: jardín botánico poco turístico, ruinas de castillo medieval, paseo ribereño tranquilo y shotengai clásico con negocios específicos de tercera generación. Nada de listas de "que ver en Tokio", esto es barrio real con historia real: la Nakasendō pasaba por acá, los samurai del clan Ōishi controlaban el norte de Edo desde el castillo de Akatsuka, y los comerciantes de Ōyama vendían suministros a los viajeros desde hace 400 años.
+Día local profundo en Itabashi: jardín botánico de barrio, ruinas de castillo medieval, paseo ribereño tranquilo y shotengai clásico con negocios específicos de tercera generación. Nada de listas de "que ver en Tokio", esto es barrio real con historia real: la Nakasendō pasaba por acá, los samurai del clan Ōishi controlaban el norte de Edo desde el castillo de Akatsuka, y los comerciantes de Ōyama vendían suministros a los viajeros desde hace 400 años.
 
 ---
 
 ### Estructura general
 
-**Tokyo Plant Park → Ruinas Castillo Akatsuka → Shakujii River Greenway → Ōyama Happy Road**
+**Akatsuka Botanical Garden → Ruinas Castillo Akatsuka → Shakujii River Greenway → Ōyama Happy Road**
 
 Distancia total: ~6 km de caminata suave.  
 Ideal para: día de aclimatación, recuperación de jet lag, o escapada de la densidad del centro.
 
 ---
 
-### 1. Tokyo Plant Park (東京都立神代植物公園)
+### 1. Akatsuka Botanical Garden (板橋区立赤塚植物園)
 
-- **Por qué ir:** El jardín botánico más grande de Tokio (43 hectáreas), completamente subvalorado. No es turístico, es de vecinos paseando y jubilados dibujando plantas.
-- **Qué hacer:** Invernaderos de clima tropical y desértico, arboleda de cerezos (excelente para sakura sin gente), rosaleda gigante (florece mayo–junio, pero la estructura es bella igual).
-- **Dato:** Llevá guantes y binoculares si tenés; es punto de observación de aves locales.
-- **Entrada:** ~500 yen. Lleva efectivo.
+- **Por qué ir:** Jardín botánico municipal de Itabashi, completamente local. Sin turistas, con invernaderos de colecciones de plantas tropicales y árboles de hoja perenne.
+- **Qué hacer:** Invernadero de palmeras y orquídeas, estanque de lotos (florece julio–agosto), arboleda de cerezos silvestres para sakura tranquilo.
+- **Dato:** Es más chico que Jindai (Chōfu) pero auténtico de barrio. Vecinos paseando perros y jubilados dibujando plantas.
+- **Entrada:** Gratis. Abierto 09:30–17:00, cerrado lunes.
 
-→ **Movimiento:** Salida por la puerta norte, caminata de 15 min hacia el este.
+→ **Movimiento:** Salida por la puerta este, caminata de 20 min hacia el este por calles residenciales.
 
 ---
 
@@ -132,20 +132,20 @@ Ideal para: día de aclimatación, recuperación de jet lag, o escapada de la de
 | **Transporte** | JR Itabashi o Metro Itabashi-Kuyakushomae para empezar; Metro Ōyama para terminar (o viceversa). |
 | **Duración** | 6–8 horas sin apuro (versión extendida). |
 | **Calzado** | Zapatillas cómodas, todo es plano. |
-| **Efectivo** | Sí, el jardín botánico, templos y tiendas del shotengai son cash-only o preferen efectivo. |
-| **Baños** | Disponibles en Tokyo Plant Park, parque Akatsuka, templo Jōren-ji, y varios dentro del shotengai. |
+| **Efectivo** | Sí, el jardín botánico (si hay entrada), templos y tiendas del shotengai son cash-only o preferen efectivo. |
+| **Baños** | Disponibles en Akatsuka Botanical Garden, parque Akatsuka, templo Jōren-ji, y varios dentro del shotengai. |
 | **Inglés** | Mínimo. Usá gestos y Google Translate. |
 
 ### Alternativas según energía
 
-- **Día corto (3 horas):** Tokyo Plant Park + Ōyama directo (omití castillo y río).
+- **Día corto (3 horas):** Castillo Akatsuka + Ōyama directo (omití jardín y río).
 - **Día extendido:** Agregá **Akatsuka Hikawa-jinja** al inicio y **Kawaguchi** al final (cruzando el río Arakawa, 20 min extra).
-- **Lluvia:** Quédate en Tokyo Plant Park (invernaderos cubiertos) y luego bus directo a Ōyama (tiendas cubiertas).
+- **Lluvia:** Quédate en tiendas cubiertas de Ōyama Happy Road (shotengai techado).
 - **Día de templo:** Agregá **Gōtoku-ji** (templo del gato de la suerte, maneki-neko) a 15 min en bus desde Ōyama.
 
 ### Primavera (marzo–abril)
 
-- **Tokyo Plant Park:** 70 variedades de cerezos, floración escalonada de marzo a abril. Excelente para picnics sin la locura de Ueno o Shinjuku Gyoen.
+- **Akatsuka Botanical Garden:** Cerezos silvestres, floración más tardía que los somei yoshino. Ideal para picnics sin gente.
 - **Shakujii River:** Sakura lineal sobre el agua, pétalos cayendo en la corriente. Ideal para fotos a las 7–8 am sin gente.
 - **Santuario Akatsuka Hikawa:** El shidarezakura (cerezo llorón) del patio central tiene más de 100 años; florece una semana después que los somei yoshino.
 - **Ōyama:** Puestos temporales de *ichigo daifuku* y *sakura mochi* en el shotengai. Algunos tachinomi ponen *noren* con motivos florales.
@@ -154,8 +154,8 @@ Ideal para: día de aclimatación, recuperación de jet lag, o escapada de la de
 ### Mapa de puntos clave
 
 ```
-Tokyo Plant Park
-       ↓ (15 min)
+Akatsuka Botanical Garden
+       ↓ (20 min)
 Castillo Akatsuka → Akatsuka Hikawa-jinja → Takinoiya
        ↓ (10 min)
 Shakujii River Greenway → Jōren-ji → Cruce Nakasendō
