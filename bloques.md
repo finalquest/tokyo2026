@@ -76,7 +76,7 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 ## 🟡 Bloques urbanos – Cultura local / relajados
 
 10. **Itabashi + Ōyama** ✅  
-    Nakasendō histórico, shotengai, Jōren-ji, base del viaje.
+    Tokyo Plant Park (jardín botánico), ruinas del Castillo Akatsuka, paseo ribereño Shakujii, shotengai Ōyama con gastronomía local.
 
 11. **Kichijōji + Inokashira Park** ✅  
     Barrio local, Harmonica Yokocho, parque, sakura.
