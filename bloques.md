@@ -114,6 +114,9 @@ Todos los bloques ahora incluyen notas de primavera (sakura, eventos y horarios)
 45. **Omotesandō + Aoyama + Harajuku (opcional)**  
     Eje de diseño contemporáneo, arquitectura boutique, calles laterales y opción Meiji Jingū.
 
+47. **Shimbashi + Shiodome**  
+    Cuna del ferrocarril japonés, izakayas bajo las vías (*gado-shita*), cultura *salaryman* y contraste con el futurista Shiodome.
+
 ---
 
 ## 🔴 Bloques urbanos – Subcultura / Retro / Pop
